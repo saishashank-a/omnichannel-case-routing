@@ -8,6 +8,7 @@ Every prompt sent to an AI tool during this challenge, in order. AI responses ar
 | 002 | [002-problem-statement.md](002-problem-statement.md) | Claude Code (Opus 5.5) | Pasted the authoritative problem statement |
 | 003 | [003-create-repo.md](003-create-repo.md) | Claude Code (Opus 5.5) | Create repo, save prompts |
 | 004 | [004-prompts-in-dev.md](004-prompts-in-dev.md) | Claude Code (Opus 5.5) | Keep prompts folder under ~/dev |
+| 005 | [005-show-plan.md](005-show-plan.md) | Claude Code (Opus 5.5) | Show plan when workflow finishes |
 
 ## Agent-generated prompts
 
