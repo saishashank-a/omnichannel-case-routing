@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.DS_Store
+# generated datasets are reproducible from the seed; regenerate with the CLI
+data/
