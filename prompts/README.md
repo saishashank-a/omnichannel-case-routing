@@ -19,6 +19,8 @@ Every prompt sent to an AI tool during this challenge, in order. AI responses ar
 | 013 | [013-rewrite-ui-prompt.md](013-rewrite-ui-prompt.md) | Claude Code (Opus 5.5) | Rewrite UI prompt for Codex |
 | 014 | [014-launch-codex.md](014-launch-codex.md) | Claude Code (Opus 5.5) | How to launch Codex |
 | 015 | [015-work-in-parallel.md](015-work-in-parallel.md) | Claude Code (Opus 5.5) | Work in parallel (treated as go) |
+| 016 | [016-run-ui-starter.md](016-run-ui-starter.md) | Claude Code (Opus 5.5) | Run the viewer on real starter data (found UTC timestamp bug) |
+| 017 | [017-remaining-gaps.md](017-remaining-gaps.md) | Claude Code (Opus 5.5) | List remaining tasks and gaps |
 
 ## Agent-generated prompts
 

@@ -39,6 +39,7 @@ each one did, where I leaned on it, and what I checked myself. Every prompt is i
 | 5 structural "duplicate" failures after injection | Validation summary | Transfer-loop rows repeat a queue at the same minute; the duplicate key now includes `reason` |
 | 1 of 30 capacity anomalies missed at full scale | Detection table showed `missed 1` | The injector's busy-slot map went stale after it moved tickets between agents; it now updates the map and never moves work off an agent it overloaded |
 | P2–P4 met 100% of SLAs and 90% of tickets waited 0 min | Reading the metrics | Calibrated handle times and concurrency limits (commit `900a8cc`) |
+| The viewer timeline showed browser-local time (a 00:17Z ticket appeared as 18:17 the day before) while ticket fields showed UTC | Running the Codex-built viewer on the real starter data, not its sample | Timeline formats timestamps in UTC (commit `8ee3ac3`) |
 
 ## What I personally reviewed, changed or validated
 
