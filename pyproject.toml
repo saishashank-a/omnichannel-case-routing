@@ -1,0 +1,13 @@
+[project]
+name = "caserouting"
+version = "0.1.0"
+description = "Synthetic omnichannel support-case routing and SLA simulator"
+requires-python = ">=3.11"
+dependencies = []  # standard library only
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

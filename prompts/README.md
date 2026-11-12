@@ -17,6 +17,8 @@ Every prompt sent to an AI tool during this challenge, in order. AI responses ar
 | 011 | [011-codex-model.md](011-codex-model.md) | Claude Code (Opus 5.5) | Which Codex model for the UI |
 | 012 | [012-codex-version.md](012-codex-version.md) | Claude Code (Opus 5.5) | Codex version correction |
 | 013 | [013-rewrite-ui-prompt.md](013-rewrite-ui-prompt.md) | Claude Code (Opus 5.5) | Rewrite UI prompt for Codex |
+| 014 | [014-launch-codex.md](014-launch-codex.md) | Claude Code (Opus 5.5) | How to launch Codex |
+| 015 | [015-work-in-parallel.md](015-work-in-parallel.md) | Claude Code (Opus 5.5) | Work in parallel (treated as go) |
 
 ## Agent-generated prompts
 
@@ -25,6 +27,8 @@ Claude Code sometimes delegates work to sub-agents, writing their prompts itself
 | File | Spawned by | Purpose |
 |------|-----------|---------|
 | [agent-generated/001-planning-workflow.js](agent-generated/001-planning-workflow.js) | prompt 001 | 4 parallel planning lenses (requirements, design critique, technical risk, schedule) → synthesis → completeness critic |
+| [agent-generated/002-bizhours-agent.md](agent-generated/002-bizhours-agent.md) | prompt 015 | Business-hours maths + tests (parallel agent) |
+| [agent-generated/003-schema-docs-agent.md](agent-generated/003-schema-docs-agent.md) | prompt 015 | schema.sql, data dictionary, model docs (parallel agent) |
 
 ## Conventions
 
