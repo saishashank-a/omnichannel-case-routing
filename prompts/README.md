@@ -23,6 +23,7 @@ Every prompt sent to an AI tool during this challenge, in order. AI responses ar
 | 017 | [017-remaining-gaps.md](017-remaining-gaps.md) | Claude Code (Opus 5.5) | List remaining tasks and gaps |
 | 018 | [018-do-items.md](018-do-items.md) | Claude Code (Opus 5.5) | Do the submission checklist (Claude did 2-4; 1 and 5 left to me) |
 | 019 | [019-stop-server.md](019-stop-server.md) | Claude Code (Opus 5.5) | Stop the local viewer server |
+| 020 | [020-claude-runs-checks.md](020-claude-runs-checks.md) | Claude Code (Opus 5.5) | Claude runs the verification checks (recorded as Claude-run in AI_USAGE) |
 
 ## Agent-generated prompts
 

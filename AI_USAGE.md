@@ -41,6 +41,22 @@ each one did, where I leaned on it, and what I checked myself. Every prompt is i
 | P2–P4 met 100% of SLAs and 90% of tickets waited 0 min | Reading the metrics | Calibrated handle times and concurrency limits (commit `900a8cc`) |
 | The viewer timeline showed browser-local time (a 00:17Z ticket appeared as 18:17 the day before) while ticket fields showed UTC | Running the Codex-built viewer on the real starter data, not its sample | Timeline formats timestamps in UTC (commit `8ee3ac3`) |
 
+## Checks run by Claude Code at my request (2026-11-12)
+
+These were run by Claude, not by me. They are listed separately so the section below stays accurate.
+
+- **Ticket 1 SLA by hand:** created Thu 2026-01-01 00:17Z (a holiday), EMAIL P3. The clock starts Fri
+  08:00, so first response is due 08:00 + 240 = 12:00, and resolution (1200 business minutes) is due
+  Fri 600 + Mon 600 = Mon 2026-01-05 18:00. Both match `data/starter/csv/sla.csv`.
+- **P1 24x7 clock:** all 99 starter P1 tickets have resolution due = created + 480 minutes.
+- **Escalation at 80%:** 26 of 27 P1 escalations fire at created + 384 minutes. The 27th
+  (`TKT-2026-000723`) was reopened and escalated at reopen + 384 minutes, which is the documented
+  rule that a reopen starts a new SLA cycle (`docs/model.md`). The script's assumption was wrong,
+  not the data.
+- **Tests and reproducibility:** `pytest` 61 passed; a fresh starter regeneration matched every
+  checksum in the committed `manifest.json`; `repro` reported identical output across two runs.
+- **Viewer on real data:** found that the timeline showed browser-local time; fixed (commit `8ee3ac3`).
+
 ## What I personally reviewed, changed or validated
 
 > **TODO (me):** fill this in honestly before submitting. For example: which modules I read line
