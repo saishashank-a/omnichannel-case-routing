@@ -9,6 +9,10 @@ Every prompt sent to an AI tool during this challenge, in order. AI responses ar
 | 003 | [003-create-repo.md](003-create-repo.md) | Claude Code (Opus 5.5) | Create repo, save prompts |
 | 004 | [004-prompts-in-dev.md](004-prompts-in-dev.md) | Claude Code (Opus 5.5) | Keep prompts folder under ~/dev |
 | 005 | [005-show-plan.md](005-show-plan.md) | Claude Code (Opus 5.5) | Show plan when workflow finishes |
+| 006 | [006-build-today-and-explain.md](006-build-today-and-explain.md) | Claude Code (Opus 5.5) | Compressed schedule; plain-language explanation |
+| 007 | [007-metrics-source.md](007-metrics-source.md) | Claude Code (Opus 5.5) | Are metrics specified by the problem? |
+| 008 | [008-assessment-type.md](008-assessment-type.md) | Claude Code (Opus 5.5) | What is being assessed? |
+| 009 | [009-ui-prompt-request.md](009-ui-prompt-request.md) | Claude Code (Opus 5.5) | Ask for a UI prompt to hand to Codex/Gemini |
 
 ## Agent-generated prompts
 
@@ -22,3 +26,11 @@ Claude Code sometimes delegates work to sub-agents, writing their prompts itself
 
 - One file per prompt: `NNN-short-slug.md`, with tool, approximate send time (America/Chicago) and purpose at the top.
 - Prompts are copied verbatim.
+
+## Prompts sent to other tools
+
+Prompts I sent to Codex CLI or Gemini CLI. Each file records which tool and model received it.
+
+| File | Purpose |
+|------|---------|
+| [codex/001-ui-viewer.md](codex/001-ui-viewer.md) | Read-only results viewer in `ui/` (drafted by Claude Code, sent verbatim) |
