@@ -21,6 +21,7 @@ Every prompt sent to an AI tool during this challenge, in order. AI responses ar
 | 015 | [015-work-in-parallel.md](015-work-in-parallel.md) | Claude Code (Opus 5.5) | Work in parallel (treated as go) |
 | 016 | [016-run-ui-starter.md](016-run-ui-starter.md) | Claude Code (Opus 5.5) | Run the viewer on real starter data (found UTC timestamp bug) |
 | 017 | [017-remaining-gaps.md](017-remaining-gaps.md) | Claude Code (Opus 5.5) | List remaining tasks and gaps |
+| 018 | [018-do-items.md](018-do-items.md) | Claude Code (Opus 5.5) | Do the submission checklist (Claude did 2-4; 1 and 5 left to me) |
 
 ## Agent-generated prompts
 
@@ -44,3 +45,4 @@ Prompts I sent to Codex CLI or Gemini CLI. Each file records which tool and mode
 | File | Purpose |
 |------|---------|
 | [codex/001-ui-viewer.md](codex/001-ui-viewer.md) | Read-only results viewer in `ui/` (drafted by Claude Code, sent verbatim) |
+| [codex/002-summary-for-claude.md](codex/002-summary-for-claude.md) | Asked Codex for a summary of its finished work to paste into Claude Code |

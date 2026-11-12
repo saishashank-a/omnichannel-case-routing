@@ -1,8 +1,8 @@
 # Codex — 001 — Results viewer UI
 
-- **Tool:** Codex CLI 0.167.2
-- **Model:** gpt-6-luna (reasoning effort: medium) — confirm with /status
-- **Sent:** <fill in time, America/Chicago>
+- **Tool:** Codex CLI 0.163.0 (version from the Codex session log)
+- **Model:** gpt-6-luna (reasoning effort: medium), from the Codex session log
+- **Sent:** 2026-11-12 08:35 CST (Chicago), from the Codex session log
 - **Written by:** Claude Code (Opus 5.5) at my request (rewritten once, see prompt 013); sent by me verbatim
 
 ---

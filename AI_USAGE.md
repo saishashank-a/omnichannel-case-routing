@@ -10,7 +10,7 @@ each one did, where I leaned on it, and what I checked myself. Every prompt is i
 |---|---|---|
 | Claude Code (CLI) | Claude Opus 5.5 | Planning, all Python code in `caserouting/`, tests, docs, commits |
 | Claude Code sub-agents | Claude Opus 5.5 | Planning workflow (4 lenses + synthesis + critic); `bizhours.py` + tests; `schema.sql` + data dictionary + model doc. Their prompts are in `prompts/agent-generated/` |
-| Codex CLI 0.167.2 | gpt-6-luna (medium effort) | The optional read-only viewer in `ui/`. Prompt in `prompts/codex/` |
+| Codex CLI 0.163.0 | gpt-6-luna (medium effort) | The optional read-only viewer in `ui/`. Prompt in `prompts/codex/` |
 
 ## Where AI accelerated the work
 
