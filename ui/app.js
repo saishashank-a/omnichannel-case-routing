@@ -15,7 +15,7 @@ const esc = value => String(value ?? '—').replace(/[&<>"']/g, ch => ({ '&': '&
 const val = value => value === null || value === undefined || value === '' ? '—' : esc(value);
 const rows = value => Array.isArray(value) ? value.filter(x => x && typeof x === 'object') : [];
 const byId = (map, key) => map.get(key) || [];
-const stamp = value => value ? esc(new Date(value).toLocaleString()) : '—';
+const stamp = value => value ? esc(new Date(value).toISOString().slice(0, 16).replace('T', ' ') + ' UTC') : '—';  // data model is UTC; never show browser-local time
 const pctClass = n => Number(n) >= 90 ? 'good' : Number(n) >= 75 ? 'warn' : 'bad';
 
 async function load(path, fallback, label) {
