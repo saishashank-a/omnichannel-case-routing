@@ -199,9 +199,9 @@
     "calendar": "CHANNEL",
     "first_response_target_min": 30,
     "resolution_target_min": 1200,
-    "started_at": "2026-01-01T14:53:00Z",
-    "first_response_due_at": "2026-01-01T15:23:00Z",
-    "resolution_due_at": "2026-01-02T10:53:00Z"
+    "started_at": "2026-01-02T07:00:00Z",
+    "first_response_due_at": "2026-01-02T07:30:00Z",
+    "resolution_due_at": "2026-01-03T12:00:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000018",
@@ -570,10 +570,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-02T10:24:00Z",
     "first_response_due_at": "2026-01-02T10:54:00Z",
-    "resolution_due_at": "2026-01-02T14:24:00Z"
+    "resolution_due_at": "2026-01-02T18:24:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000049",
@@ -681,7 +681,7 @@
     "resolution_target_min": 3000,
     "started_at": "2026-01-02T12:46:00Z",
     "first_response_due_at": "2026-01-02T13:46:00Z",
-    "resolution_due_at": "2026-01-06T17:46:00Z"
+    "resolution_due_at": "2026-01-04T14:46:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000058",
@@ -1110,10 +1110,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-02T21:43:00Z",
     "first_response_due_at": "2026-01-02T22:13:00Z",
-    "resolution_due_at": "2026-01-03T01:43:00Z"
+    "resolution_due_at": "2026-01-03T05:43:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000094",
@@ -1134,10 +1134,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-02T22:18:00Z",
     "first_response_due_at": "2026-01-02T22:48:00Z",
-    "resolution_due_at": "2026-01-03T02:18:00Z"
+    "resolution_due_at": "2026-01-03T06:18:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000096",
@@ -1470,10 +1470,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-03T15:15:00Z",
     "first_response_due_at": "2026-01-03T15:45:00Z",
-    "resolution_due_at": "2026-01-03T19:15:00Z"
+    "resolution_due_at": "2026-01-03T23:15:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000124",
@@ -1543,9 +1543,9 @@
     "calendar": "CHANNEL",
     "first_response_target_min": 480,
     "resolution_target_min": 3000,
-    "started_at": "2026-01-05T08:00:00Z",
-    "first_response_due_at": "2026-01-05T16:00:00Z",
-    "resolution_due_at": "2026-01-09T18:00:00Z"
+    "started_at": "2026-01-03T18:57:00Z",
+    "first_response_due_at": "2026-01-04T02:57:00Z",
+    "resolution_due_at": "2026-01-05T20:57:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000130",
@@ -1554,10 +1554,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-03T19:42:00Z",
     "first_response_due_at": "2026-01-03T20:12:00Z",
-    "resolution_due_at": "2026-01-03T23:42:00Z"
+    "resolution_due_at": "2026-01-04T03:42:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000131",
@@ -1590,10 +1590,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-03T19:51:00Z",
     "first_response_due_at": "2026-01-03T19:56:00Z",
-    "resolution_due_at": "2026-01-03T23:51:00Z"
+    "resolution_due_at": "2026-01-04T03:51:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000134",
@@ -1962,10 +1962,10 @@
     "channel_id": "PHONE",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-04T11:02:00Z",
     "first_response_due_at": "2026-01-04T11:07:00Z",
-    "resolution_due_at": "2026-01-04T15:02:00Z"
+    "resolution_due_at": "2026-01-04T19:02:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000165",
@@ -1975,9 +1975,9 @@
     "calendar": "CHANNEL",
     "first_response_target_min": 10,
     "resolution_target_min": 600,
-    "started_at": "2026-01-04T11:03:00Z",
-    "first_response_due_at": "2026-01-04T11:13:00Z",
-    "resolution_due_at": "2026-01-04T21:03:00Z"
+    "started_at": "2026-01-05T07:00:00Z",
+    "first_response_due_at": "2026-01-05T07:10:00Z",
+    "resolution_due_at": "2026-01-05T17:00:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000166",
@@ -2082,10 +2082,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-04T12:00:00Z",
     "first_response_due_at": "2026-01-04T12:30:00Z",
-    "resolution_due_at": "2026-01-04T16:00:00Z"
+    "resolution_due_at": "2026-01-04T20:00:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000175",
@@ -2095,9 +2095,9 @@
     "calendar": "CHANNEL",
     "first_response_target_min": 60,
     "resolution_target_min": 3000,
-    "started_at": "2026-01-04T12:03:00Z",
-    "first_response_due_at": "2026-01-04T13:03:00Z",
-    "resolution_due_at": "2026-01-06T14:03:00Z"
+    "started_at": "2026-01-05T07:00:00Z",
+    "first_response_due_at": "2026-01-05T08:00:00Z",
+    "resolution_due_at": "2026-01-08T12:00:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000176",
@@ -2310,10 +2310,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-04T15:33:00Z",
     "first_response_due_at": "2026-01-04T16:03:00Z",
-    "resolution_due_at": "2026-01-04T19:33:00Z"
+    "resolution_due_at": "2026-01-04T23:33:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000194",
@@ -2646,10 +2646,10 @@
     "channel_id": "PHONE",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-05T09:04:00Z",
     "first_response_due_at": "2026-01-05T09:09:00Z",
-    "resolution_due_at": "2026-01-05T13:04:00Z"
+    "resolution_due_at": "2026-01-05T17:04:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000222",
@@ -2694,10 +2694,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-05T09:17:00Z",
     "first_response_due_at": "2026-01-05T09:47:00Z",
-    "resolution_due_at": "2026-01-05T13:17:00Z"
+    "resolution_due_at": "2026-01-05T17:17:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000226",
@@ -3162,10 +3162,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-05T14:45:00Z",
     "first_response_due_at": "2026-01-05T15:15:00Z",
-    "resolution_due_at": "2026-01-05T18:45:00Z"
+    "resolution_due_at": "2026-01-05T22:45:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000265",
@@ -3222,10 +3222,10 @@
     "channel_id": "PHONE",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-05T15:22:00Z",
     "first_response_due_at": "2026-01-05T15:27:00Z",
-    "resolution_due_at": "2026-01-05T19:22:00Z"
+    "resolution_due_at": "2026-01-05T23:22:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000270",
@@ -3306,10 +3306,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-05T16:20:00Z",
     "first_response_due_at": "2026-01-05T16:25:00Z",
-    "resolution_due_at": "2026-01-05T20:20:00Z"
+    "resolution_due_at": "2026-01-06T00:20:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000277",
@@ -3354,10 +3354,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-05T17:56:00Z",
     "first_response_due_at": "2026-01-05T18:26:00Z",
-    "resolution_due_at": "2026-01-05T21:56:00Z"
+    "resolution_due_at": "2026-01-06T01:56:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000281",
@@ -3429,7 +3429,7 @@
     "resolution_target_min": 1200,
     "started_at": "2026-01-05T18:48:00Z",
     "first_response_due_at": "2026-01-05T19:08:00Z",
-    "resolution_due_at": "2026-01-06T14:48:00Z"
+    "resolution_due_at": "2026-01-07T08:48:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000287",
@@ -3626,14 +3626,14 @@
   {
     "sla_id": "SLA-TKT-2026-000303",
     "ticket_id": "TKT-2026-000303",
-    "priority": "P1",
+    "priority": "P3",
     "channel_id": "CHAT",
-    "calendar": "24x7",
-    "first_response_target_min": 5,
-    "resolution_target_min": 240,
-    "started_at": "2026-01-06T06:26:00Z",
-    "first_response_due_at": "2026-01-06T06:31:00Z",
-    "resolution_due_at": "2026-01-06T10:26:00Z"
+    "calendar": "CHANNEL",
+    "first_response_target_min": 30,
+    "resolution_target_min": 1200,
+    "started_at": "2026-01-06T07:00:00Z",
+    "first_response_due_at": "2026-01-06T07:30:00Z",
+    "resolution_due_at": "2026-01-07T12:00:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000304",
@@ -3762,10 +3762,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-06T09:55:00Z",
     "first_response_due_at": "2026-01-06T10:00:00Z",
-    "resolution_due_at": "2026-01-06T13:55:00Z"
+    "resolution_due_at": "2026-01-06T17:55:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000315",
@@ -3885,7 +3885,7 @@
     "resolution_target_min": 3000,
     "started_at": "2026-01-06T11:52:00Z",
     "first_response_due_at": "2026-01-06T12:22:00Z",
-    "resolution_due_at": "2026-01-09T16:52:00Z"
+    "resolution_due_at": "2026-01-08T13:52:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000325",
@@ -4098,10 +4098,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-06T14:47:00Z",
     "first_response_due_at": "2026-01-06T14:52:00Z",
-    "resolution_due_at": "2026-01-06T18:47:00Z"
+    "resolution_due_at": "2026-01-06T22:47:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000343",
@@ -4182,10 +4182,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-06T16:23:00Z",
     "first_response_due_at": "2026-01-06T16:28:00Z",
-    "resolution_due_at": "2026-01-06T20:23:00Z"
+    "resolution_due_at": "2026-01-07T00:23:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000350",
@@ -4242,10 +4242,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-06T16:59:00Z",
     "first_response_due_at": "2026-01-06T17:29:00Z",
-    "resolution_due_at": "2026-01-06T20:59:00Z"
+    "resolution_due_at": "2026-01-07T00:59:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000355",
@@ -4314,10 +4314,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-06T18:14:00Z",
     "first_response_due_at": "2026-01-06T18:44:00Z",
-    "resolution_due_at": "2026-01-06T22:14:00Z"
+    "resolution_due_at": "2026-01-07T02:14:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000361",
@@ -4650,10 +4650,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T09:38:00Z",
     "first_response_due_at": "2026-01-07T10:08:00Z",
-    "resolution_due_at": "2026-01-07T13:38:00Z"
+    "resolution_due_at": "2026-01-07T17:38:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000389",
@@ -5034,10 +5034,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:00:00Z",
     "first_response_due_at": "2026-01-07T14:05:00Z",
-    "resolution_due_at": "2026-01-07T18:00:00Z"
+    "resolution_due_at": "2026-01-07T22:00:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000421",
@@ -5046,22 +5046,22 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:00:00Z",
     "first_response_due_at": "2026-01-07T14:30:00Z",
-    "resolution_due_at": "2026-01-07T18:00:00Z"
+    "resolution_due_at": "2026-01-07T22:00:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000422",
     "ticket_id": "TKT-2026-000422",
-    "priority": "P3",
+    "priority": "P1",
     "channel_id": "PHONE",
-    "calendar": "CHANNEL",
-    "first_response_target_min": 20,
-    "resolution_target_min": 1200,
+    "calendar": "24x7",
+    "first_response_target_min": 5,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:00:00Z",
-    "first_response_due_at": "2026-01-07T14:20:00Z",
-    "resolution_due_at": "2026-01-08T19:00:00Z"
+    "first_response_due_at": "2026-01-07T14:05:00Z",
+    "resolution_due_at": "2026-01-07T22:00:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000423",
@@ -5070,10 +5070,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:02:00Z",
     "first_response_due_at": "2026-01-07T14:32:00Z",
-    "resolution_due_at": "2026-01-07T18:02:00Z"
+    "resolution_due_at": "2026-01-07T22:02:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000424",
@@ -5097,7 +5097,7 @@
     "resolution_target_min": 3000,
     "started_at": "2026-01-07T14:03:00Z",
     "first_response_due_at": "2026-01-07T15:03:00Z",
-    "resolution_due_at": "2026-01-09T16:03:00Z"
+    "resolution_due_at": "2026-01-10T19:03:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000426",
@@ -5106,10 +5106,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:06:00Z",
     "first_response_due_at": "2026-01-07T14:11:00Z",
-    "resolution_due_at": "2026-01-07T18:06:00Z"
+    "resolution_due_at": "2026-01-07T22:06:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000427",
@@ -5118,10 +5118,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:07:00Z",
     "first_response_due_at": "2026-01-07T14:37:00Z",
-    "resolution_due_at": "2026-01-07T18:07:00Z"
+    "resolution_due_at": "2026-01-07T22:07:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000428",
@@ -5130,10 +5130,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:10:00Z",
     "first_response_due_at": "2026-01-07T14:15:00Z",
-    "resolution_due_at": "2026-01-07T18:10:00Z"
+    "resolution_due_at": "2026-01-07T22:10:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000429",
@@ -5154,10 +5154,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:16:00Z",
     "first_response_due_at": "2026-01-07T14:21:00Z",
-    "resolution_due_at": "2026-01-07T18:16:00Z"
+    "resolution_due_at": "2026-01-07T22:16:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000431",
@@ -5166,10 +5166,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:17:00Z",
     "first_response_due_at": "2026-01-07T14:22:00Z",
-    "resolution_due_at": "2026-01-07T18:17:00Z"
+    "resolution_due_at": "2026-01-07T22:17:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000432",
@@ -5178,10 +5178,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:20:00Z",
     "first_response_due_at": "2026-01-07T14:50:00Z",
-    "resolution_due_at": "2026-01-07T18:20:00Z"
+    "resolution_due_at": "2026-01-07T22:20:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000433",
@@ -5202,10 +5202,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:21:00Z",
     "first_response_due_at": "2026-01-07T14:26:00Z",
-    "resolution_due_at": "2026-01-07T18:21:00Z"
+    "resolution_due_at": "2026-01-07T22:21:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000435",
@@ -5214,10 +5214,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:23:00Z",
     "first_response_due_at": "2026-01-07T14:28:00Z",
-    "resolution_due_at": "2026-01-07T18:23:00Z"
+    "resolution_due_at": "2026-01-07T22:23:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000436",
@@ -5238,10 +5238,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:23:00Z",
     "first_response_due_at": "2026-01-07T14:53:00Z",
-    "resolution_due_at": "2026-01-07T18:23:00Z"
+    "resolution_due_at": "2026-01-07T22:23:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000438",
@@ -5250,10 +5250,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:23:00Z",
     "first_response_due_at": "2026-01-07T14:53:00Z",
-    "resolution_due_at": "2026-01-07T18:23:00Z"
+    "resolution_due_at": "2026-01-07T22:23:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000439",
@@ -5274,22 +5274,22 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:28:00Z",
     "first_response_due_at": "2026-01-07T14:33:00Z",
-    "resolution_due_at": "2026-01-07T18:28:00Z"
+    "resolution_due_at": "2026-01-07T22:28:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000441",
     "ticket_id": "TKT-2026-000441",
-    "priority": "P1",
+    "priority": "P3",
     "channel_id": "PHONE",
-    "calendar": "24x7",
-    "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "calendar": "CHANNEL",
+    "first_response_target_min": 20,
+    "resolution_target_min": 1200,
     "started_at": "2026-01-07T14:28:00Z",
-    "first_response_due_at": "2026-01-07T14:33:00Z",
-    "resolution_due_at": "2026-01-07T18:28:00Z"
+    "first_response_due_at": "2026-01-07T14:48:00Z",
+    "resolution_due_at": "2026-01-08T19:28:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000442",
@@ -5310,10 +5310,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:35:00Z",
     "first_response_due_at": "2026-01-07T15:05:00Z",
-    "resolution_due_at": "2026-01-07T18:35:00Z"
+    "resolution_due_at": "2026-01-07T22:35:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000444",
@@ -5322,10 +5322,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:36:00Z",
     "first_response_due_at": "2026-01-07T15:06:00Z",
-    "resolution_due_at": "2026-01-07T18:36:00Z"
+    "resolution_due_at": "2026-01-07T22:36:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000445",
@@ -5334,10 +5334,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:37:00Z",
     "first_response_due_at": "2026-01-07T15:07:00Z",
-    "resolution_due_at": "2026-01-07T18:37:00Z"
+    "resolution_due_at": "2026-01-07T22:37:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000446",
@@ -5370,10 +5370,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:42:00Z",
     "first_response_due_at": "2026-01-07T14:47:00Z",
-    "resolution_due_at": "2026-01-07T18:42:00Z"
+    "resolution_due_at": "2026-01-07T22:42:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000449",
@@ -5382,10 +5382,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:42:00Z",
     "first_response_due_at": "2026-01-07T14:47:00Z",
-    "resolution_due_at": "2026-01-07T18:42:00Z"
+    "resolution_due_at": "2026-01-07T22:42:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000450",
@@ -5454,10 +5454,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:52:00Z",
     "first_response_due_at": "2026-01-07T14:57:00Z",
-    "resolution_due_at": "2026-01-07T18:52:00Z"
+    "resolution_due_at": "2026-01-07T22:52:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000456",
@@ -5474,14 +5474,14 @@
   {
     "sla_id": "SLA-TKT-2026-000457",
     "ticket_id": "TKT-2026-000457",
-    "priority": "P3",
+    "priority": "P1",
     "channel_id": "CHAT",
-    "calendar": "CHANNEL",
-    "first_response_target_min": 30,
-    "resolution_target_min": 1200,
+    "calendar": "24x7",
+    "first_response_target_min": 5,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:53:00Z",
-    "first_response_due_at": "2026-01-07T15:23:00Z",
-    "resolution_due_at": "2026-01-08T19:53:00Z"
+    "first_response_due_at": "2026-01-07T14:58:00Z",
+    "resolution_due_at": "2026-01-07T22:53:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000458",
@@ -5502,10 +5502,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:55:00Z",
     "first_response_due_at": "2026-01-07T15:00:00Z",
-    "resolution_due_at": "2026-01-07T18:55:00Z"
+    "resolution_due_at": "2026-01-07T22:55:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000460",
@@ -5514,10 +5514,10 @@
     "channel_id": "PHONE",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:56:00Z",
     "first_response_due_at": "2026-01-07T15:01:00Z",
-    "resolution_due_at": "2026-01-07T18:56:00Z"
+    "resolution_due_at": "2026-01-07T22:56:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000461",
@@ -5538,10 +5538,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:58:00Z",
     "first_response_due_at": "2026-01-07T15:03:00Z",
-    "resolution_due_at": "2026-01-07T18:58:00Z"
+    "resolution_due_at": "2026-01-07T22:58:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000463",
@@ -5550,10 +5550,10 @@
     "channel_id": "PHONE",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T14:58:00Z",
     "first_response_due_at": "2026-01-07T15:03:00Z",
-    "resolution_due_at": "2026-01-07T18:58:00Z"
+    "resolution_due_at": "2026-01-07T22:58:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000464",
@@ -5562,10 +5562,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T15:12:00Z",
     "first_response_due_at": "2026-01-07T15:17:00Z",
-    "resolution_due_at": "2026-01-07T19:12:00Z"
+    "resolution_due_at": "2026-01-07T23:12:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000465",
@@ -5598,10 +5598,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T15:17:00Z",
     "first_response_due_at": "2026-01-07T15:47:00Z",
-    "resolution_due_at": "2026-01-07T19:17:00Z"
+    "resolution_due_at": "2026-01-07T23:17:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000468",
@@ -5610,10 +5610,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T15:18:00Z",
     "first_response_due_at": "2026-01-07T15:23:00Z",
-    "resolution_due_at": "2026-01-07T19:18:00Z"
+    "resolution_due_at": "2026-01-07T23:18:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000469",
@@ -5622,22 +5622,22 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T15:20:00Z",
     "first_response_due_at": "2026-01-07T15:50:00Z",
-    "resolution_due_at": "2026-01-07T19:20:00Z"
+    "resolution_due_at": "2026-01-07T23:20:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000470",
     "ticket_id": "TKT-2026-000470",
-    "priority": "P1",
+    "priority": "P3",
     "channel_id": "PHONE",
-    "calendar": "24x7",
-    "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "calendar": "CHANNEL",
+    "first_response_target_min": 20,
+    "resolution_target_min": 1200,
     "started_at": "2026-01-07T15:22:00Z",
-    "first_response_due_at": "2026-01-07T15:27:00Z",
-    "resolution_due_at": "2026-01-07T19:22:00Z"
+    "first_response_due_at": "2026-01-07T15:42:00Z",
+    "resolution_due_at": "2026-01-08T20:22:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000471",
@@ -5646,10 +5646,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T15:22:00Z",
     "first_response_due_at": "2026-01-07T15:27:00Z",
-    "resolution_due_at": "2026-01-07T19:22:00Z"
+    "resolution_due_at": "2026-01-07T23:22:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000472",
@@ -5658,10 +5658,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T15:26:00Z",
     "first_response_due_at": "2026-01-07T15:56:00Z",
-    "resolution_due_at": "2026-01-07T19:26:00Z"
+    "resolution_due_at": "2026-01-07T23:26:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000473",
@@ -5670,10 +5670,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T15:28:00Z",
     "first_response_due_at": "2026-01-07T15:58:00Z",
-    "resolution_due_at": "2026-01-07T19:28:00Z"
+    "resolution_due_at": "2026-01-07T23:28:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000474",
@@ -5682,10 +5682,10 @@
     "channel_id": "PHONE",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T15:29:00Z",
     "first_response_due_at": "2026-01-07T15:34:00Z",
-    "resolution_due_at": "2026-01-07T19:29:00Z"
+    "resolution_due_at": "2026-01-07T23:29:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000475",
@@ -5694,10 +5694,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T15:29:00Z",
     "first_response_due_at": "2026-01-07T15:59:00Z",
-    "resolution_due_at": "2026-01-07T19:29:00Z"
+    "resolution_due_at": "2026-01-07T23:29:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000476",
@@ -5718,10 +5718,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T15:33:00Z",
     "first_response_due_at": "2026-01-07T15:38:00Z",
-    "resolution_due_at": "2026-01-07T19:33:00Z"
+    "resolution_due_at": "2026-01-07T23:33:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000478",
@@ -5730,10 +5730,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T15:35:00Z",
     "first_response_due_at": "2026-01-07T15:40:00Z",
-    "resolution_due_at": "2026-01-07T19:35:00Z"
+    "resolution_due_at": "2026-01-07T23:35:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000479",
@@ -5778,10 +5778,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T15:38:00Z",
     "first_response_due_at": "2026-01-07T15:43:00Z",
-    "resolution_due_at": "2026-01-07T19:38:00Z"
+    "resolution_due_at": "2026-01-07T23:38:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000483",
@@ -5790,10 +5790,10 @@
     "channel_id": "PHONE",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T15:39:00Z",
     "first_response_due_at": "2026-01-07T15:44:00Z",
-    "resolution_due_at": "2026-01-07T19:39:00Z"
+    "resolution_due_at": "2026-01-07T23:39:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000484",
@@ -5826,10 +5826,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T15:49:00Z",
     "first_response_due_at": "2026-01-07T15:54:00Z",
-    "resolution_due_at": "2026-01-07T19:49:00Z"
+    "resolution_due_at": "2026-01-07T23:49:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000487",
@@ -5850,10 +5850,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T15:51:00Z",
     "first_response_due_at": "2026-01-07T15:56:00Z",
-    "resolution_due_at": "2026-01-07T19:51:00Z"
+    "resolution_due_at": "2026-01-07T23:51:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000489",
@@ -5862,10 +5862,10 @@
     "channel_id": "PHONE",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T15:55:00Z",
     "first_response_due_at": "2026-01-07T16:00:00Z",
-    "resolution_due_at": "2026-01-07T19:55:00Z"
+    "resolution_due_at": "2026-01-07T23:55:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000490",
@@ -5874,10 +5874,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T16:04:00Z",
     "first_response_due_at": "2026-01-07T16:34:00Z",
-    "resolution_due_at": "2026-01-07T20:04:00Z"
+    "resolution_due_at": "2026-01-08T00:04:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000491",
@@ -5898,10 +5898,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T16:12:00Z",
     "first_response_due_at": "2026-01-07T16:42:00Z",
-    "resolution_due_at": "2026-01-07T20:12:00Z"
+    "resolution_due_at": "2026-01-08T00:12:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000493",
@@ -5958,10 +5958,10 @@
     "channel_id": "PHONE",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T16:35:00Z",
     "first_response_due_at": "2026-01-07T16:40:00Z",
-    "resolution_due_at": "2026-01-07T20:35:00Z"
+    "resolution_due_at": "2026-01-08T00:35:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000498",
@@ -5970,10 +5970,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T16:35:00Z",
     "first_response_due_at": "2026-01-07T16:40:00Z",
-    "resolution_due_at": "2026-01-07T20:35:00Z"
+    "resolution_due_at": "2026-01-08T00:35:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000499",
@@ -5982,10 +5982,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T16:37:00Z",
     "first_response_due_at": "2026-01-07T17:07:00Z",
-    "resolution_due_at": "2026-01-07T20:37:00Z"
+    "resolution_due_at": "2026-01-08T00:37:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000500",
@@ -6018,10 +6018,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T16:40:00Z",
     "first_response_due_at": "2026-01-07T17:10:00Z",
-    "resolution_due_at": "2026-01-07T20:40:00Z"
+    "resolution_due_at": "2026-01-08T00:40:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000503",
@@ -6030,10 +6030,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T16:42:00Z",
     "first_response_due_at": "2026-01-07T17:12:00Z",
-    "resolution_due_at": "2026-01-07T20:42:00Z"
+    "resolution_due_at": "2026-01-08T00:42:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000504",
@@ -6042,10 +6042,10 @@
     "channel_id": "PHONE",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T16:48:00Z",
     "first_response_due_at": "2026-01-07T16:53:00Z",
-    "resolution_due_at": "2026-01-07T20:48:00Z"
+    "resolution_due_at": "2026-01-08T00:48:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000505",
@@ -6054,10 +6054,10 @@
     "channel_id": "PHONE",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T16:48:00Z",
     "first_response_due_at": "2026-01-07T16:53:00Z",
-    "resolution_due_at": "2026-01-07T20:48:00Z"
+    "resolution_due_at": "2026-01-08T00:48:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000506",
@@ -6066,10 +6066,10 @@
     "channel_id": "PHONE",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-07T16:51:00Z",
     "first_response_due_at": "2026-01-07T16:56:00Z",
-    "resolution_due_at": "2026-01-07T20:51:00Z"
+    "resolution_due_at": "2026-01-08T00:51:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000507",
@@ -6158,14 +6158,14 @@
   {
     "sla_id": "SLA-TKT-2026-000514",
     "ticket_id": "TKT-2026-000514",
-    "priority": "P1",
+    "priority": "P3",
     "channel_id": "EMAIL",
-    "calendar": "24x7",
-    "first_response_target_min": 30,
-    "resolution_target_min": 240,
-    "started_at": "2026-01-07T18:44:00Z",
-    "first_response_due_at": "2026-01-07T19:14:00Z",
-    "resolution_due_at": "2026-01-07T22:44:00Z"
+    "calendar": "CHANNEL",
+    "first_response_target_min": 240,
+    "resolution_target_min": 1200,
+    "started_at": "2026-01-08T08:00:00Z",
+    "first_response_due_at": "2026-01-08T12:00:00Z",
+    "resolution_due_at": "2026-01-09T18:00:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000515",
@@ -6258,10 +6258,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-08T02:26:00Z",
     "first_response_due_at": "2026-01-08T02:56:00Z",
-    "resolution_due_at": "2026-01-08T06:26:00Z"
+    "resolution_due_at": "2026-01-08T10:26:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000523",
@@ -7026,10 +7026,10 @@
     "channel_id": "PHONE",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-08T23:07:00Z",
     "first_response_due_at": "2026-01-08T23:12:00Z",
-    "resolution_due_at": "2026-01-09T03:07:00Z"
+    "resolution_due_at": "2026-01-09T07:07:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000587",
@@ -7086,10 +7086,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-09T05:59:00Z",
     "first_response_due_at": "2026-01-09T06:29:00Z",
-    "resolution_due_at": "2026-01-09T09:59:00Z"
+    "resolution_due_at": "2026-01-09T13:59:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000592",
@@ -7098,10 +7098,10 @@
     "channel_id": "PHONE",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-09T06:07:00Z",
     "first_response_due_at": "2026-01-09T06:12:00Z",
-    "resolution_due_at": "2026-01-09T10:07:00Z"
+    "resolution_due_at": "2026-01-09T14:07:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000593",
@@ -7434,10 +7434,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-09T11:36:00Z",
     "first_response_due_at": "2026-01-09T12:06:00Z",
-    "resolution_due_at": "2026-01-09T15:36:00Z"
+    "resolution_due_at": "2026-01-09T19:36:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000621",
@@ -7806,10 +7806,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-09T17:30:00Z",
     "first_response_due_at": "2026-01-09T17:35:00Z",
-    "resolution_due_at": "2026-01-09T21:30:00Z"
+    "resolution_due_at": "2026-01-10T01:30:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000652",
@@ -7818,10 +7818,10 @@
     "channel_id": "PHONE",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-09T17:33:00Z",
     "first_response_due_at": "2026-01-09T17:38:00Z",
-    "resolution_due_at": "2026-01-09T21:33:00Z"
+    "resolution_due_at": "2026-01-10T01:33:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000653",
@@ -8142,10 +8142,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-10T09:03:00Z",
     "first_response_due_at": "2026-01-10T09:08:00Z",
-    "resolution_due_at": "2026-01-10T13:03:00Z"
+    "resolution_due_at": "2026-01-10T17:03:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000680",
@@ -8238,10 +8238,10 @@
     "channel_id": "PHONE",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-10T09:29:00Z",
     "first_response_due_at": "2026-01-10T09:34:00Z",
-    "resolution_due_at": "2026-01-10T13:29:00Z"
+    "resolution_due_at": "2026-01-10T17:29:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000688",
@@ -8406,10 +8406,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-10T11:00:00Z",
     "first_response_due_at": "2026-01-10T11:05:00Z",
-    "resolution_due_at": "2026-01-10T15:00:00Z"
+    "resolution_due_at": "2026-01-10T19:00:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000702",
@@ -8442,10 +8442,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-10T11:03:00Z",
     "first_response_due_at": "2026-01-10T11:08:00Z",
-    "resolution_due_at": "2026-01-10T15:03:00Z"
+    "resolution_due_at": "2026-01-10T19:03:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000705",
@@ -8570,14 +8570,14 @@
   {
     "sla_id": "SLA-TKT-2026-000715",
     "ticket_id": "TKT-2026-000715",
-    "priority": "P3",
+    "priority": "P1",
     "channel_id": "EMAIL",
-    "calendar": "CHANNEL",
-    "first_response_target_min": 240,
-    "resolution_target_min": 1200,
-    "started_at": "2026-01-12T08:00:00Z",
-    "first_response_due_at": "2026-01-12T12:00:00Z",
-    "resolution_due_at": "2026-01-13T18:00:00Z"
+    "calendar": "24x7",
+    "first_response_target_min": 30,
+    "resolution_target_min": 480,
+    "started_at": "2026-01-10T12:10:00Z",
+    "first_response_due_at": "2026-01-10T12:40:00Z",
+    "resolution_due_at": "2026-01-10T20:10:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000716",
@@ -8610,10 +8610,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-10T12:32:00Z",
     "first_response_due_at": "2026-01-10T12:37:00Z",
-    "resolution_due_at": "2026-01-10T16:32:00Z"
+    "resolution_due_at": "2026-01-10T20:32:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000719",
@@ -8670,10 +8670,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-10T13:28:00Z",
     "first_response_due_at": "2026-01-10T13:58:00Z",
-    "resolution_due_at": "2026-01-10T17:28:00Z"
+    "resolution_due_at": "2026-01-10T21:28:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000724",
@@ -8886,10 +8886,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-11T03:42:00Z",
     "first_response_due_at": "2026-01-11T03:47:00Z",
-    "resolution_due_at": "2026-01-11T07:42:00Z"
+    "resolution_due_at": "2026-01-11T11:42:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000742",
@@ -8910,10 +8910,10 @@
     "channel_id": "PHONE",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-11T07:44:00Z",
     "first_response_due_at": "2026-01-11T07:49:00Z",
-    "resolution_due_at": "2026-01-11T11:44:00Z"
+    "resolution_due_at": "2026-01-11T15:44:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000744",
@@ -9126,10 +9126,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-11T13:50:00Z",
     "first_response_due_at": "2026-01-11T14:20:00Z",
-    "resolution_due_at": "2026-01-11T17:50:00Z"
+    "resolution_due_at": "2026-01-11T21:50:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000762",
@@ -9138,10 +9138,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-11T14:12:00Z",
     "first_response_due_at": "2026-01-11T14:42:00Z",
-    "resolution_due_at": "2026-01-11T18:12:00Z"
+    "resolution_due_at": "2026-01-11T22:12:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000763",
@@ -9174,10 +9174,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-11T14:57:00Z",
     "first_response_due_at": "2026-01-11T15:27:00Z",
-    "resolution_due_at": "2026-01-11T18:57:00Z"
+    "resolution_due_at": "2026-01-11T22:57:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000766",
@@ -9630,10 +9630,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-12T13:11:00Z",
     "first_response_due_at": "2026-01-12T13:41:00Z",
-    "resolution_due_at": "2026-01-12T17:11:00Z"
+    "resolution_due_at": "2026-01-12T21:11:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000804",
@@ -9897,7 +9897,7 @@
     "resolution_target_min": 1200,
     "started_at": "2026-01-12T15:53:00Z",
     "first_response_due_at": "2026-01-12T16:23:00Z",
-    "resolution_due_at": "2026-01-13T20:53:00Z"
+    "resolution_due_at": "2026-01-13T11:53:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000826",
@@ -10026,10 +10026,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-12T17:40:00Z",
     "first_response_due_at": "2026-01-12T17:45:00Z",
-    "resolution_due_at": "2026-01-12T21:40:00Z"
+    "resolution_due_at": "2026-01-13T01:40:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000837",
@@ -10170,10 +10170,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-12T19:33:00Z",
     "first_response_due_at": "2026-01-12T19:38:00Z",
-    "resolution_due_at": "2026-01-12T23:33:00Z"
+    "resolution_due_at": "2026-01-13T03:33:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000849",
@@ -10506,10 +10506,10 @@
     "channel_id": "PHONE",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-13T11:36:00Z",
     "first_response_due_at": "2026-01-13T11:41:00Z",
-    "resolution_due_at": "2026-01-13T15:36:00Z"
+    "resolution_due_at": "2026-01-13T19:36:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000877",
@@ -10701,7 +10701,7 @@
     "resolution_target_min": 3000,
     "started_at": "2026-01-13T15:08:00Z",
     "first_response_due_at": "2026-01-13T15:38:00Z",
-    "resolution_due_at": "2026-01-16T20:08:00Z"
+    "resolution_due_at": "2026-01-15T17:08:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000893",
@@ -11454,10 +11454,10 @@
     "channel_id": "EMAIL",
     "calendar": "24x7",
     "first_response_target_min": 30,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-14T11:22:00Z",
     "first_response_due_at": "2026-01-14T11:52:00Z",
-    "resolution_due_at": "2026-01-14T15:22:00Z"
+    "resolution_due_at": "2026-01-14T19:22:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000956",
@@ -11606,14 +11606,14 @@
   {
     "sla_id": "SLA-TKT-2026-000968",
     "ticket_id": "TKT-2026-000968",
-    "priority": "P3",
+    "priority": "P1",
     "channel_id": "EMAIL",
-    "calendar": "CHANNEL",
-    "first_response_target_min": 240,
-    "resolution_target_min": 1200,
+    "calendar": "24x7",
+    "first_response_target_min": 30,
+    "resolution_target_min": 480,
     "started_at": "2026-01-14T14:14:00Z",
-    "first_response_due_at": "2026-01-15T08:14:00Z",
-    "resolution_due_at": "2026-01-16T14:14:00Z"
+    "first_response_due_at": "2026-01-14T14:44:00Z",
+    "resolution_due_at": "2026-01-14T22:14:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000969",
@@ -11850,10 +11850,10 @@
     "channel_id": "CHAT",
     "calendar": "24x7",
     "first_response_target_min": 5,
-    "resolution_target_min": 240,
+    "resolution_target_min": 480,
     "started_at": "2026-01-14T18:00:00Z",
     "first_response_due_at": "2026-01-14T18:05:00Z",
-    "resolution_due_at": "2026-01-14T22:00:00Z"
+    "resolution_due_at": "2026-01-15T02:00:00Z"
   },
   {
     "sla_id": "SLA-TKT-2026-000989",

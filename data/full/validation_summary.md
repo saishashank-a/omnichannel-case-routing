@@ -27,7 +27,7 @@ PK uniqueness, FK integrity, enums, ID formats, date ordering, natural-key dupli
 
 | Criterion | Evidence | Result |
 |---|---|---|
-| Routing respects skill and capacity | eligibility + capacity sweep on every ASSIGN | pass on baseline; 12 agent-channel peaks above limit after injection (expected: only CAPACITY_EXCEEDED tickets) |
+| Routing respects skill and capacity | eligibility + capacity sweep on every ASSIGN | pass on baseline; 18 agent-channel peaks above limit after injection (expected: only CAPACITY_EXCEEDED tickets) |
 | SLA is reproducible | due dates and outcomes recomputed from tickets + events | pass on baseline |
 | Escalation timing is correct | every ESCALATE at exactly 80% of the resolution target | pass on baseline |
 | Assignment history is complete | seq 1..n gapless, REOPEN after RESOLVE, legal lifecycle | pass on baseline |
@@ -35,6 +35,6 @@ PK uniqueness, FK integrity, enums, ID formats, date ordering, natural-key dupli
 ## Headline metrics
 
 - Tickets 30000, messages 100000, agents 100, after-hours 30.7%
-- Rates: {'transfer_rate': 8.04, 'escalation_rate': 0.39, 'reopen_rate': 5.3, 'language_match_rate': 97.09, 'translation_rate': 2.91}
-- Queue wait minutes: {'p50': 0, 'p90': 0, 'p99': 771, 'max': 2778}
-- CSAT distribution: {'1': 7, '2': 157, '3': 158, '4': 3066, '5': 7230}
+- Rates: {'transfer_rate': 8.0, 'escalation_rate': 2.26, 'reopen_rate': 5.39, 'language_match_rate': 96.89, 'translation_rate': 3.11}
+- Queue wait minutes: {'p50': 0, 'p90': 281, 'p99': 1399, 'max': 6625}
+- CSAT distribution: {'1': 13, '2': 300, '3': 217, '4': 3342, '5': 6746}

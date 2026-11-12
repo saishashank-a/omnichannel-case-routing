@@ -1,26 +1,26 @@
 anomaly_id,issue_type,ticket_id,entity_table,entity_id,rule_violated,field,injected_value,expected_value
-GT-0001,PRIORITY_SAFETY_VIOLATION,TKT-2026-000968,ticket,TKT-2026-000968,PRL-005: safety intents are always P1,priority,P3,P1
-GT-0002,PRIORITY_SAFETY_VIOLATION,TKT-2026-000454,ticket,TKT-2026-000454,PRL-005: safety intents are always P1,priority,P3,P1
-GT-0003,PRIORITY_SAFETY_VIOLATION,TKT-2026-000715,ticket,TKT-2026-000715,PRL-005: safety intents are always P1,priority,P3,P1
-GT-0004,PRIORITY_SAFETY_VIOLATION,TKT-2026-000422,ticket,TKT-2026-000422,PRL-005: safety intents are always P1,priority,P3,P1
-GT-0005,PRIORITY_SAFETY_VIOLATION,TKT-2026-000457,ticket,TKT-2026-000457,PRL-005: safety intents are always P1,priority,P3,P1
-GT-0006,SLA_CALENDAR_IGNORED,TKT-2026-000017,sla,SLA-TKT-2026-000017,SLA for P3 CHAT must use the channel calendar,resolution_due_at,2026-01-02T10:53:00Z,2026-01-03T12:00:00Z
-GT-0007,SLA_CALENDAR_IGNORED,TKT-2026-000165,sla,SLA-TKT-2026-000165,SLA for P2 PHONE must use the channel calendar,resolution_due_at,2026-01-04T21:03:00Z,2026-01-05T17:00:00Z
-GT-0008,SLA_CALENDAR_IGNORED,TKT-2026-000175,sla,SLA-TKT-2026-000175,SLA for P4 CHAT must use the channel calendar,resolution_due_at,2026-01-06T14:03:00Z,2026-01-08T12:00:00Z
-GT-0009,SLA_CALENDAR_IGNORED,TKT-2026-000286,sla,SLA-TKT-2026-000286,SLA for P3 PHONE must use the channel calendar,resolution_due_at,2026-01-06T14:48:00Z,2026-01-07T08:48:00Z
-GT-0010,SLA_CALENDAR_IGNORED,TKT-2026-000425,sla,SLA-TKT-2026-000425,SLA for P4 CHAT must use the channel calendar,resolution_due_at,2026-01-09T16:03:00Z,2026-01-10T19:03:00Z
-GT-0011,REOPEN_HISTORY_LOST,TKT-2026-000236,assignment_event,ASN-TKT-2026-000236-001,reopened tickets keep their full assignment history,rows,2 pre-reopen events deleted,2 events present
-GT-0012,REOPEN_HISTORY_LOST,TKT-2026-000947,assignment_event,ASN-TKT-2026-000947-001,reopened tickets keep their full assignment history,rows,2 pre-reopen events deleted,2 events present
-GT-0013,REOPEN_HISTORY_LOST,TKT-2026-000613,assignment_event,ASN-TKT-2026-000613-001,reopened tickets keep their full assignment history,rows,2 pre-reopen events deleted,2 events present
+GT-0001,PRIORITY_SAFETY_VIOLATION,TKT-2026-000441,ticket,TKT-2026-000441,PRL-005: safety intents are always P1,priority,P3,P1
+GT-0002,PRIORITY_SAFETY_VIOLATION,TKT-2026-000303,ticket,TKT-2026-000303,PRL-005: safety intents are always P1,priority,P3,P1
+GT-0003,PRIORITY_SAFETY_VIOLATION,TKT-2026-000454,ticket,TKT-2026-000454,PRL-005: safety intents are always P1,priority,P3,P1
+GT-0004,PRIORITY_SAFETY_VIOLATION,TKT-2026-000470,ticket,TKT-2026-000470,PRL-005: safety intents are always P1,priority,P3,P1
+GT-0005,PRIORITY_SAFETY_VIOLATION,TKT-2026-000514,ticket,TKT-2026-000514,PRL-005: safety intents are always P1,priority,P3,P1
+GT-0006,SLA_CALENDAR_IGNORED,TKT-2026-000057,sla,SLA-TKT-2026-000057,SLA for P4 CHAT must use the channel calendar,resolution_due_at,2026-01-04T14:46:00Z,2026-01-06T17:46:00Z
+GT-0007,SLA_CALENDAR_IGNORED,TKT-2026-000892,sla,SLA-TKT-2026-000892,SLA for P4 PHONE must use the channel calendar,resolution_due_at,2026-01-15T17:08:00Z,2026-01-16T20:08:00Z
+GT-0008,SLA_CALENDAR_IGNORED,TKT-2026-000324,sla,SLA-TKT-2026-000324,SLA for P4 PHONE must use the channel calendar,resolution_due_at,2026-01-08T13:52:00Z,2026-01-09T16:52:00Z
+GT-0009,SLA_CALENDAR_IGNORED,TKT-2026-000129,sla,SLA-TKT-2026-000129,SLA for P4 EMAIL must use the channel calendar,resolution_due_at,2026-01-05T20:57:00Z,2026-01-09T18:00:00Z
+GT-0010,SLA_CALENDAR_IGNORED,TKT-2026-000825,sla,SLA-TKT-2026-000825,SLA for P3 CHAT must use the channel calendar,resolution_due_at,2026-01-13T11:53:00Z,2026-01-13T20:53:00Z
+GT-0011,REOPEN_HISTORY_LOST,TKT-2026-000203,assignment_event,ASN-TKT-2026-000203-001,reopened tickets keep their full assignment history,rows,2 pre-reopen events deleted,2 events present
+GT-0012,REOPEN_HISTORY_LOST,TKT-2026-000116,assignment_event,ASN-TKT-2026-000116-001,reopened tickets keep their full assignment history,rows,2 pre-reopen events deleted,2 events present
+GT-0013,REOPEN_HISTORY_LOST,TKT-2026-000927,assignment_event,ASN-TKT-2026-000927-001,reopened tickets keep their full assignment history,rows,2 pre-reopen events deleted,2 events present
 GT-0014,REOPEN_HISTORY_LOST,TKT-2026-000906,assignment_event,ASN-TKT-2026-000906-001,reopened tickets keep their full assignment history,rows,2 pre-reopen events deleted,2 events present
-GT-0015,REOPEN_HISTORY_LOST,TKT-2026-000926,assignment_event,ASN-TKT-2026-000926-001,reopened tickets keep their full assignment history,rows,2 pre-reopen events deleted,2 events present
-GT-0016,TRANSFER_LOOP,TKT-2026-000722,assignment_event,ASN-TKT-2026-000722-003,a ticket must not be transferred back to a queue it already left,queue_id,QUE-BILLING -> QUE-ACCOUNT -> QUE-BILLING -> QUE-ACCOUNT at 2026-01-10T13:53:00Z,QUE-BILLING -> QUE-ACCOUNT
-GT-0017,TRANSFER_LOOP,TKT-2026-000728,assignment_event,ASN-TKT-2026-000728-003,a ticket must not be transferred back to a queue it already left,queue_id,QUE-BILLING -> QUE-TECH -> QUE-BILLING -> QUE-TECH at 2026-01-10T14:49:00Z,QUE-BILLING -> QUE-TECH
-GT-0018,TRANSFER_LOOP,TKT-2026-000096,assignment_event,ASN-TKT-2026-000096-003,a ticket must not be transferred back to a queue it already left,queue_id,QUE-TECH -> QUE-BILLING -> QUE-TECH -> QUE-BILLING at 2026-01-02T22:37:00Z,QUE-TECH -> QUE-BILLING
-GT-0019,TRANSFER_LOOP,TKT-2026-000808,assignment_event,ASN-TKT-2026-000808-003,a ticket must not be transferred back to a queue it already left,queue_id,QUE-ACCOUNT -> QUE-BILLING -> QUE-ACCOUNT -> QUE-BILLING at 2026-01-12T13:58:00Z,QUE-ACCOUNT -> QUE-BILLING
-GT-0020,TRANSFER_LOOP,TKT-2026-000618,assignment_event,ASN-TKT-2026-000618-003,a ticket must not be transferred back to a queue it already left,queue_id,QUE-BILLING -> QUE-SALES -> QUE-BILLING -> QUE-SALES at 2026-01-09T11:28:00Z,QUE-BILLING -> QUE-SALES
-GT-0021,CAPACITY_EXCEEDED,TKT-2026-000697,assignment_event,ASN-TKT-2026-000697-001,agent PHONE concurrency limit is 1,agent_id,AGT-000002,AGT-000003
-GT-0022,CAPACITY_EXCEEDED,TKT-2026-000653,assignment_event,ASN-TKT-2026-000653-001,agent PHONE concurrency limit is 1,agent_id,AGT-000012,AGT-000011
-GT-0023,CAPACITY_EXCEEDED,TKT-2026-000186,assignment_event,ASN-TKT-2026-000186-001,agent PHONE concurrency limit is 1,agent_id,AGT-000018,AGT-000019
-GT-0024,CAPACITY_EXCEEDED,TKT-2026-000287,assignment_event,ASN-TKT-2026-000287-001,agent PHONE concurrency limit is 1,agent_id,AGT-000012,AGT-000011
-GT-0025,CAPACITY_EXCEEDED,TKT-2026-000876,assignment_event,ASN-TKT-2026-000876-001,agent PHONE concurrency limit is 1,agent_id,AGT-000002,AGT-000001
+GT-0015,REOPEN_HISTORY_LOST,TKT-2026-000564,assignment_event,ASN-TKT-2026-000564-001,reopened tickets keep their full assignment history,rows,2 pre-reopen events deleted,2 events present
+GT-0016,TRANSFER_LOOP,TKT-2026-000900,assignment_event,ASN-TKT-2026-000900-003,a ticket must not be transferred back to a queue it already left,queue_id,QUE-TECH -> QUE-SALES -> QUE-TECH -> QUE-SALES at 2026-01-13T16:43:00Z,QUE-TECH -> QUE-SALES
+GT-0017,TRANSFER_LOOP,TKT-2026-000088,assignment_event,ASN-TKT-2026-000088-003,a ticket must not be transferred back to a queue it already left,queue_id,QUE-BILLING -> QUE-ACCOUNT -> QUE-BILLING -> QUE-ACCOUNT at 2026-01-03T00:34:00Z,QUE-BILLING -> QUE-ACCOUNT
+GT-0018,TRANSFER_LOOP,TKT-2026-000708,assignment_event,ASN-TKT-2026-000708-003,a ticket must not be transferred back to a queue it already left,queue_id,QUE-TECH -> QUE-SALES -> QUE-TECH -> QUE-SALES at 2026-01-10T11:58:00Z,QUE-TECH -> QUE-SALES
+GT-0019,TRANSFER_LOOP,TKT-2026-000573,assignment_event,ASN-TKT-2026-000573-003,a ticket must not be transferred back to a queue it already left,queue_id,QUE-TECH -> QUE-SALES -> QUE-TECH -> QUE-SALES at 2026-01-08T17:51:00Z,QUE-TECH -> QUE-SALES
+GT-0020,TRANSFER_LOOP,TKT-2026-000707,assignment_event,ASN-TKT-2026-000707-003,a ticket must not be transferred back to a queue it already left,queue_id,QUE-ACCOUNT -> QUE-TECH -> QUE-ACCOUNT -> QUE-TECH at 2026-01-10T12:01:00Z,QUE-ACCOUNT -> QUE-TECH
+GT-0021,CAPACITY_EXCEEDED,TKT-2026-000544,assignment_event,ASN-TKT-2026-000544-001,agent EMAIL concurrency limit is 2,agent_id,AGT-000003,AGT-000008
+GT-0022,CAPACITY_EXCEEDED,TKT-2026-000437,assignment_event,ASN-TKT-2026-000437-001,agent EMAIL concurrency limit is 2,agent_id,AGT-000002,AGT-000013
+GT-0023,CAPACITY_EXCEEDED,TKT-2026-000712,assignment_event,ASN-TKT-2026-000712-001,agent EMAIL concurrency limit is 2,agent_id,AGT-000002,AGT-000017
+GT-0024,CAPACITY_EXCEEDED,TKT-2026-000149,assignment_event,ASN-TKT-2026-000149-001,agent PHONE concurrency limit is 1,agent_id,AGT-000018,AGT-000019
+GT-0025,CAPACITY_EXCEEDED,TKT-2026-000222,assignment_event,ASN-TKT-2026-000222-001,agent PHONE concurrency limit is 1,agent_id,AGT-000001,AGT-000004

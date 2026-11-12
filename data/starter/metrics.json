@@ -21,7 +21,7 @@
       "met": 41,
       "breached": 0,
       "pct": 100.0,
-      "first_response_pct": 78.38
+      "first_response_pct": 37.84
     },
     {
       "channel_id": "CHAT",
@@ -29,7 +29,7 @@
       "met": 25,
       "breached": 0,
       "pct": 100.0,
-      "first_response_pct": 92.0
+      "first_response_pct": 76.0
     },
     {
       "channel_id": "CHAT",
@@ -37,7 +37,7 @@
       "met": 130,
       "breached": 0,
       "pct": 100.0,
-      "first_response_pct": 100.0
+      "first_response_pct": 96.83
     },
     {
       "channel_id": "CHAT",
@@ -50,26 +50,26 @@
     {
       "channel_id": "EMAIL",
       "priority": "P1",
-      "met": 41,
-      "breached": 6,
-      "pct": 87.23,
-      "first_response_pct": 83.33
+      "met": 24,
+      "breached": 29,
+      "pct": 45.28,
+      "first_response_pct": 11.63
     },
     {
       "channel_id": "EMAIL",
       "priority": "P2",
-      "met": 60,
-      "breached": 0,
-      "pct": 100.0,
-      "first_response_pct": 100.0
+      "met": 58,
+      "breached": 3,
+      "pct": 95.08,
+      "first_response_pct": 55.36
     },
     {
       "channel_id": "EMAIL",
       "priority": "P3",
       "met": 169,
-      "breached": 0,
-      "pct": 100.0,
-      "first_response_pct": 100.0
+      "breached": 1,
+      "pct": 99.41,
+      "first_response_pct": 94.34
     },
     {
       "channel_id": "EMAIL",
@@ -82,104 +82,104 @@
     {
       "channel_id": "PHONE",
       "priority": "P1",
-      "met": 18,
+      "met": 17,
       "breached": 2,
-      "pct": 90.0,
-      "first_response_pct": 80.0
+      "pct": 89.47,
+      "first_response_pct": 52.63
     },
     {
       "channel_id": "PHONE",
       "priority": "P2",
-      "met": 11,
-      "breached": 1,
-      "pct": 91.67,
-      "first_response_pct": 91.67
+      "met": 12,
+      "breached": 0,
+      "pct": 100.0,
+      "first_response_pct": 100.0
     },
     {
       "channel_id": "PHONE",
       "priority": "P3",
-      "met": 91,
+      "met": 92,
       "breached": 0,
       "pct": 100.0,
-      "first_response_pct": 98.85
+      "first_response_pct": 94.32
     },
     {
       "channel_id": "PHONE",
       "priority": "P4",
-      "met": 93,
+      "met": 91,
       "breached": 0,
       "pct": 100.0,
-      "first_response_pct": 100.0
+      "first_response_pct": 98.84
     }
   ],
   "rates": {
     "transfer_rate": 9.2,
-    "escalation_rate": 0.8,
-    "reopen_rate": 6.0,
-    "language_match_rate": 92.61,
-    "translation_rate": 7.39
+    "escalation_rate": 3.1,
+    "reopen_rate": 6.6,
+    "language_match_rate": 92.24,
+    "translation_rate": 7.76
   },
   "queue_wait_minutes": {
     "p50": 0,
-    "p90": 0,
-    "p99": 801,
-    "max": 2147
+    "p90": 487,
+    "p99": 1250,
+    "max": 2653
   },
   "csat_distribution": {
     "1": 1,
-    "2": 6,
-    "3": 7,
-    "4": 93,
-    "5": 246
+    "2": 16,
+    "3": 10,
+    "4": 98,
+    "5": 228
   },
   "peak_concurrency": [
     {
       "agent_id": "AGT-000001",
       "channel_id": "CHAT",
       "peak": 2,
-      "limit": 3
+      "limit": 2
     },
     {
       "agent_id": "AGT-000001",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 2
+    },
+    {
+      "agent_id": "AGT-000001",
+      "channel_id": "PHONE",
+      "peak": 2,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000002",
+      "channel_id": "CHAT",
+      "peak": 2,
+      "limit": 2
+    },
+    {
+      "agent_id": "AGT-000002",
       "channel_id": "EMAIL",
       "peak": 3,
-      "limit": 5
+      "limit": 2
     },
     {
-      "agent_id": "AGT-000001",
+      "agent_id": "AGT-000002",
       "channel_id": "PHONE",
       "peak": 1,
       "limit": 1
     },
     {
-      "agent_id": "AGT-000002",
-      "channel_id": "CHAT",
-      "peak": 2,
-      "limit": 3
-    },
-    {
-      "agent_id": "AGT-000002",
-      "channel_id": "EMAIL",
-      "peak": 2,
-      "limit": 5
-    },
-    {
-      "agent_id": "AGT-000002",
-      "channel_id": "PHONE",
-      "peak": 2,
-      "limit": 1
-    },
-    {
       "agent_id": "AGT-000003",
       "channel_id": "CHAT",
       "peak": 2,
-      "limit": 3
+      "limit": 2
     },
     {
       "agent_id": "AGT-000003",
       "channel_id": "EMAIL",
-      "peak": 2,
-      "limit": 5
+      "peak": 3,
+      "limit": 2
     },
     {
       "agent_id": "AGT-000003",
@@ -191,13 +191,13 @@
       "agent_id": "AGT-000004",
       "channel_id": "CHAT",
       "peak": 1,
-      "limit": 3
+      "limit": 2
     },
     {
       "agent_id": "AGT-000004",
       "channel_id": "EMAIL",
-      "peak": 1,
-      "limit": 5
+      "peak": 2,
+      "limit": 2
     },
     {
       "agent_id": "AGT-000004",
@@ -209,67 +209,79 @@
       "agent_id": "AGT-000005",
       "channel_id": "CHAT",
       "peak": 1,
-      "limit": 3
+      "limit": 2
     },
     {
       "agent_id": "AGT-000005",
       "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 2
+    },
+    {
+      "agent_id": "AGT-000005",
+      "channel_id": "PHONE",
       "peak": 1,
-      "limit": 5
+      "limit": 1
     },
     {
       "agent_id": "AGT-000006",
       "channel_id": "CHAT",
       "peak": 1,
-      "limit": 3
+      "limit": 2
     },
     {
       "agent_id": "AGT-000006",
       "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 2
+    },
+    {
+      "agent_id": "AGT-000007",
+      "channel_id": "CHAT",
       "peak": 1,
-      "limit": 5
+      "limit": 2
     },
     {
       "agent_id": "AGT-000007",
       "channel_id": "EMAIL",
-      "peak": 1,
-      "limit": 5
+      "peak": 2,
+      "limit": 2
     },
     {
       "agent_id": "AGT-000008",
       "channel_id": "CHAT",
       "peak": 1,
-      "limit": 3
+      "limit": 2
     },
     {
       "agent_id": "AGT-000008",
       "channel_id": "EMAIL",
-      "peak": 1,
-      "limit": 5
+      "peak": 2,
+      "limit": 2
     },
     {
       "agent_id": "AGT-000009",
       "channel_id": "CHAT",
       "peak": 1,
-      "limit": 3
+      "limit": 2
     },
     {
       "agent_id": "AGT-000009",
       "channel_id": "EMAIL",
-      "peak": 1,
-      "limit": 5
+      "peak": 2,
+      "limit": 2
     },
     {
       "agent_id": "AGT-000010",
       "channel_id": "CHAT",
       "peak": 1,
-      "limit": 3
+      "limit": 2
     },
     {
       "agent_id": "AGT-000010",
       "channel_id": "EMAIL",
       "peak": 2,
-      "limit": 5
+      "limit": 2
     },
     {
       "agent_id": "AGT-000010",
@@ -281,13 +293,13 @@
       "agent_id": "AGT-000011",
       "channel_id": "CHAT",
       "peak": 1,
-      "limit": 3
+      "limit": 2
     },
     {
       "agent_id": "AGT-000011",
       "channel_id": "EMAIL",
-      "peak": 1,
-      "limit": 5
+      "peak": 2,
+      "limit": 2
     },
     {
       "agent_id": "AGT-000011",
@@ -299,31 +311,31 @@
       "agent_id": "AGT-000012",
       "channel_id": "CHAT",
       "peak": 2,
-      "limit": 3
+      "limit": 2
     },
     {
       "agent_id": "AGT-000012",
       "channel_id": "EMAIL",
-      "peak": 3,
-      "limit": 5
+      "peak": 2,
+      "limit": 2
     },
     {
       "agent_id": "AGT-000012",
       "channel_id": "PHONE",
-      "peak": 2,
+      "peak": 1,
       "limit": 1
     },
     {
       "agent_id": "AGT-000013",
       "channel_id": "CHAT",
       "peak": 2,
-      "limit": 3
+      "limit": 2
     },
     {
       "agent_id": "AGT-000013",
       "channel_id": "EMAIL",
       "peak": 2,
-      "limit": 5
+      "limit": 2
     },
     {
       "agent_id": "AGT-000013",
@@ -335,13 +347,13 @@
       "agent_id": "AGT-000014",
       "channel_id": "CHAT",
       "peak": 1,
-      "limit": 3
+      "limit": 2
     },
     {
       "agent_id": "AGT-000014",
       "channel_id": "EMAIL",
-      "peak": 1,
-      "limit": 5
+      "peak": 2,
+      "limit": 2
     },
     {
       "agent_id": "AGT-000014",
@@ -352,14 +364,14 @@
     {
       "agent_id": "AGT-000015",
       "channel_id": "CHAT",
-      "peak": 1,
-      "limit": 3
+      "peak": 2,
+      "limit": 2
     },
     {
       "agent_id": "AGT-000015",
       "channel_id": "EMAIL",
-      "peak": 1,
-      "limit": 5
+      "peak": 2,
+      "limit": 2
     },
     {
       "agent_id": "AGT-000015",
@@ -370,14 +382,14 @@
     {
       "agent_id": "AGT-000016",
       "channel_id": "CHAT",
-      "peak": 1,
-      "limit": 3
+      "peak": 2,
+      "limit": 2
     },
     {
       "agent_id": "AGT-000016",
       "channel_id": "EMAIL",
-      "peak": 1,
-      "limit": 5
+      "peak": 2,
+      "limit": 2
     },
     {
       "agent_id": "AGT-000016",
@@ -388,14 +400,14 @@
     {
       "agent_id": "AGT-000017",
       "channel_id": "CHAT",
-      "peak": 1,
-      "limit": 3
+      "peak": 2,
+      "limit": 2
     },
     {
       "agent_id": "AGT-000017",
       "channel_id": "EMAIL",
       "peak": 2,
-      "limit": 5
+      "limit": 2
     },
     {
       "agent_id": "AGT-000017",
@@ -406,14 +418,14 @@
     {
       "agent_id": "AGT-000018",
       "channel_id": "CHAT",
-      "peak": 3,
-      "limit": 3
+      "peak": 2,
+      "limit": 2
     },
     {
       "agent_id": "AGT-000018",
       "channel_id": "EMAIL",
-      "peak": 5,
-      "limit": 5
+      "peak": 2,
+      "limit": 2
     },
     {
       "agent_id": "AGT-000018",
@@ -424,14 +436,14 @@
     {
       "agent_id": "AGT-000019",
       "channel_id": "CHAT",
-      "peak": 3,
-      "limit": 3
+      "peak": 2,
+      "limit": 2
     },
     {
       "agent_id": "AGT-000019",
       "channel_id": "EMAIL",
-      "peak": 5,
-      "limit": 5
+      "peak": 2,
+      "limit": 2
     },
     {
       "agent_id": "AGT-000019",
@@ -442,14 +454,14 @@
     {
       "agent_id": "AGT-000020",
       "channel_id": "CHAT",
-      "peak": 3,
-      "limit": 3
+      "peak": 2,
+      "limit": 2
     },
     {
       "agent_id": "AGT-000020",
       "channel_id": "EMAIL",
-      "peak": 5,
-      "limit": 5
+      "peak": 2,
+      "limit": 2
     },
     {
       "agent_id": "AGT-000020",

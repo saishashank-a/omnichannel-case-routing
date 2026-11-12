@@ -53,9 +53,10 @@ EMAIL_HOURS = {d: [(8 * 60, 18 * 60)] for d in range(5)}  # Mon-Fri 08-18
 LIVE_HOURS = {d: [(7 * 60, 22 * 60)] for d in range(6)}   # Mon-Sat 07-22
 
 CHANNELS: dict[str, dict] = {
-    # share = fraction of arrivals; limit = max concurrent tickets per agent
-    "EMAIL": {"name": "Email", "hours": EMAIL_HOURS, "share": 0.45, "limit": 5},
-    "CHAT": {"name": "Live chat", "hours": LIVE_HOURS, "share": 0.35, "limit": 3},
+    # share = fraction of arrivals; limit = max concurrent tickets per agent.
+    # Calibrated (see README) so queues form at peaks and SLA attainment is not trivially 100%.
+    "EMAIL": {"name": "Email", "hours": EMAIL_HOURS, "share": 0.45, "limit": 2},
+    "CHAT": {"name": "Live chat", "hours": LIVE_HOURS, "share": 0.35, "limit": 2},
     "PHONE": {"name": "Phone", "hours": LIVE_HOURS, "share": 0.20, "limit": 1},
 }
 
@@ -123,7 +124,7 @@ PROSPECT_SHARE = 0.12  # customers with no account (marketing/sales leads)
 # P1 runs on the 24x7 clock; P2-P4 on the channel calendar.
 # ---------------------------------------------------------------------------
 SLA_TARGETS: dict[tuple[str, str], tuple[int, int]] = {
-    ("P1", "EMAIL"): (30, 240), ("P1", "CHAT"): (5, 240), ("P1", "PHONE"): (5, 240),
+    ("P1", "EMAIL"): (30, 480), ("P1", "CHAT"): (5, 480), ("P1", "PHONE"): (5, 480),
     ("P2", "EMAIL"): (60, 600), ("P2", "CHAT"): (10, 600), ("P2", "PHONE"): (10, 600),
     ("P3", "EMAIL"): (240, 1200), ("P3", "CHAT"): (30, 1200), ("P3", "PHONE"): (20, 1200),
     ("P4", "EMAIL"): (480, 3000), ("P4", "CHAT"): (60, 3000), ("P4", "PHONE"): (30, 3000),
@@ -162,8 +163,8 @@ OUTAGE_INTENT_SHARE = 0.6    # share of outage-window arrivals that are INT-OUTA
 # ---------------------------------------------------------------------------
 # Handling and lifecycle behaviour (drawn per ticket before routing).
 # ---------------------------------------------------------------------------
-HANDLE_MEDIAN_MIN = {"EMAIL": 35, "CHAT": 18, "PHONE": 12}  # minutes a slot is held
-HANDLE_SIGMA = 0.6           # lognormal spread
+HANDLE_MEDIAN_MIN = {"EMAIL": 300, "CHAT": 35, "PHONE": 20}  # minutes a slot is held (active work, incl. waiting on internal teams)
+HANDLE_SIGMA = 0.8           # lognormal spread
 T2_HANDLE_FACTOR = 1.5
 FIRST_RESPONSE_FRACTION = 0.25  # first agent reply lands 25% into handling
 MISROUTE_PROB = 0.08         # triage sends the ticket to the wrong queue

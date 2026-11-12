@@ -3,21 +3,21 @@
     "priority": "P1",
     "channel_id": "CHAT",
     "first_response_min": 5,
-    "resolution_min": 240,
+    "resolution_min": 480,
     "calendar": "24x7"
   },
   {
     "priority": "P1",
     "channel_id": "EMAIL",
     "first_response_min": 30,
-    "resolution_min": 240,
+    "resolution_min": 480,
     "calendar": "24x7"
   },
   {
     "priority": "P1",
     "channel_id": "PHONE",
     "first_response_min": 5,
-    "resolution_min": 240,
+    "resolution_min": 480,
     "calendar": "24x7"
   },
   {

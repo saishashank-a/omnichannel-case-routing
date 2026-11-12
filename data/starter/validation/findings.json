@@ -1,37 +1,43 @@
 [
   {
     "issue_type": "CAPACITY_EXCEEDED",
-    "ticket_id": "TKT-2026-000186",
+    "ticket_id": "TKT-2026-000149",
     "check": "capacity",
     "detail": "AGT-000018 holds 2 PHONE tickets, limit 1"
   },
   {
     "issue_type": "CAPACITY_EXCEEDED",
-    "ticket_id": "TKT-2026-000287",
+    "ticket_id": "TKT-2026-000222",
     "check": "capacity",
-    "detail": "AGT-000012 holds 2 PHONE tickets, limit 1"
+    "detail": "AGT-000001 holds 2 PHONE tickets, limit 1"
   },
   {
     "issue_type": "CAPACITY_EXCEEDED",
-    "ticket_id": "TKT-2026-000653",
+    "ticket_id": "TKT-2026-000437",
     "check": "capacity",
-    "detail": "AGT-000012 holds 2 PHONE tickets, limit 1"
+    "detail": "AGT-000002 holds 3 EMAIL tickets, limit 2"
   },
   {
     "issue_type": "CAPACITY_EXCEEDED",
-    "ticket_id": "TKT-2026-000697",
+    "ticket_id": "TKT-2026-000544",
     "check": "capacity",
-    "detail": "AGT-000002 holds 2 PHONE tickets, limit 1"
+    "detail": "AGT-000003 holds 3 EMAIL tickets, limit 2"
   },
   {
     "issue_type": "CAPACITY_EXCEEDED",
-    "ticket_id": "TKT-2026-000876",
+    "ticket_id": "TKT-2026-000712",
     "check": "capacity",
-    "detail": "AGT-000002 holds 2 PHONE tickets, limit 1"
+    "detail": "AGT-000002 holds 3 EMAIL tickets, limit 2"
   },
   {
     "issue_type": "PRIORITY_SAFETY_VIOLATION",
-    "ticket_id": "TKT-2026-000422",
+    "ticket_id": "TKT-2026-000303",
+    "check": "safety_rule",
+    "detail": "safety intent INT-OUTAGE has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-000441",
     "check": "safety_rule",
     "detail": "safety intent INT-OUTAGE has priority P3"
   },
@@ -43,31 +49,31 @@
   },
   {
     "issue_type": "PRIORITY_SAFETY_VIOLATION",
-    "ticket_id": "TKT-2026-000457",
+    "ticket_id": "TKT-2026-000470",
     "check": "safety_rule",
     "detail": "safety intent INT-OUTAGE has priority P3"
   },
   {
     "issue_type": "PRIORITY_SAFETY_VIOLATION",
-    "ticket_id": "TKT-2026-000715",
-    "check": "safety_rule",
-    "detail": "safety intent INT-OUTAGE has priority P3"
-  },
-  {
-    "issue_type": "PRIORITY_SAFETY_VIOLATION",
-    "ticket_id": "TKT-2026-000968",
+    "ticket_id": "TKT-2026-000514",
     "check": "safety_rule",
     "detail": "safety intent INT-SECURITY has priority P3"
   },
   {
     "issue_type": "REOPEN_HISTORY_LOST",
-    "ticket_id": "TKT-2026-000236",
+    "ticket_id": "TKT-2026-000116",
     "check": "history_complete",
     "detail": "assignment seq is [3, 4, 5], not 1..n"
   },
   {
     "issue_type": "REOPEN_HISTORY_LOST",
-    "ticket_id": "TKT-2026-000613",
+    "ticket_id": "TKT-2026-000203",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-000564",
     "check": "history_complete",
     "detail": "assignment seq is [3, 4, 5], not 1..n"
   },
@@ -79,74 +85,68 @@
   },
   {
     "issue_type": "REOPEN_HISTORY_LOST",
-    "ticket_id": "TKT-2026-000926",
-    "check": "history_complete",
-    "detail": "assignment seq is [3, 4, 5], not 1..n"
-  },
-  {
-    "issue_type": "REOPEN_HISTORY_LOST",
-    "ticket_id": "TKT-2026-000947",
+    "ticket_id": "TKT-2026-000927",
     "check": "history_complete",
     "detail": "assignment seq is [3, 4, 5], not 1..n"
   },
   {
     "issue_type": "SLA_CALENDAR_IGNORED",
-    "ticket_id": "TKT-2026-000017",
+    "ticket_id": "TKT-2026-000057",
     "check": "sla_due_dates",
-    "detail": "stored resolution due 2026-01-02T10:53:00Z, calendar gives 3600"
+    "detail": "stored resolution due 2026-01-04T14:46:00Z, calendar gives 8266"
   },
   {
     "issue_type": "SLA_CALENDAR_IGNORED",
-    "ticket_id": "TKT-2026-000165",
+    "ticket_id": "TKT-2026-000129",
     "check": "sla_due_dates",
-    "detail": "stored resolution due 2026-01-04T21:03:00Z, calendar gives 6780"
+    "detail": "stored resolution due 2026-01-05T20:57:00Z, calendar gives 12600"
   },
   {
     "issue_type": "SLA_CALENDAR_IGNORED",
-    "ticket_id": "TKT-2026-000175",
+    "ticket_id": "TKT-2026-000324",
     "check": "sla_due_dates",
-    "detail": "stored resolution due 2026-01-06T14:03:00Z, calendar gives 10800"
+    "detail": "stored resolution due 2026-01-08T13:52:00Z, calendar gives 12532"
   },
   {
     "issue_type": "SLA_CALENDAR_IGNORED",
-    "ticket_id": "TKT-2026-000286",
+    "ticket_id": "TKT-2026-000825",
     "check": "sla_due_dates",
-    "detail": "stored resolution due 2026-01-06T14:48:00Z, calendar gives 9168"
+    "detail": "stored resolution due 2026-01-13T11:53:00Z, calendar gives 18533"
   },
   {
     "issue_type": "SLA_CALENDAR_IGNORED",
-    "ticket_id": "TKT-2026-000425",
+    "ticket_id": "TKT-2026-000892",
     "check": "sla_due_dates",
-    "detail": "stored resolution due 2026-01-09T16:03:00Z, calendar gives 14103"
+    "detail": "stored resolution due 2026-01-15T17:08:00Z, calendar gives 22808"
   },
   {
     "issue_type": "TRANSFER_LOOP",
-    "ticket_id": "TKT-2026-000096",
-    "check": "transfer_loop",
-    "detail": "queue path ['QUE-TECH', 'QUE-BILLING', 'QUE-TECH']"
-  },
-  {
-    "issue_type": "TRANSFER_LOOP",
-    "ticket_id": "TKT-2026-000618",
-    "check": "transfer_loop",
-    "detail": "queue path ['QUE-BILLING', 'QUE-SALES', 'QUE-BILLING']"
-  },
-  {
-    "issue_type": "TRANSFER_LOOP",
-    "ticket_id": "TKT-2026-000722",
+    "ticket_id": "TKT-2026-000088",
     "check": "transfer_loop",
     "detail": "queue path ['QUE-BILLING', 'QUE-ACCOUNT', 'QUE-BILLING']"
   },
   {
     "issue_type": "TRANSFER_LOOP",
-    "ticket_id": "TKT-2026-000728",
+    "ticket_id": "TKT-2026-000573",
     "check": "transfer_loop",
-    "detail": "queue path ['QUE-BILLING', 'QUE-TECH', 'QUE-BILLING']"
+    "detail": "queue path ['QUE-TECH', 'QUE-SALES', 'QUE-TECH']"
   },
   {
     "issue_type": "TRANSFER_LOOP",
-    "ticket_id": "TKT-2026-000808",
+    "ticket_id": "TKT-2026-000707",
     "check": "transfer_loop",
-    "detail": "queue path ['QUE-ACCOUNT', 'QUE-BILLING', 'QUE-ACCOUNT']"
+    "detail": "queue path ['QUE-ACCOUNT', 'QUE-TECH', 'QUE-ACCOUNT']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-000708",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-TECH', 'QUE-SALES', 'QUE-TECH']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-000900",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-TECH', 'QUE-SALES', 'QUE-TECH']"
   }
 ]
