@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Case Routing Results</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar"><div><p class="eyebrow">SIMULATOR RESULTS</p><h1>Case routing review</h1></div><div id="dataset-label" class="dataset-label"></div></header>
+  <main>
+    <div id="messages" aria-live="polite"></div>
+    <nav class="tabs" aria-label="Results sections">
+      <button class="tab active" data-tab="overview">Overview</button><button class="tab" data-tab="tickets">Tickets</button><button class="tab" data-tab="anomalies">Anomalies</button>
+    </nav>
+    <section id="overview" class="screen active"></section>
+    <section id="tickets" class="screen"></section>
+    <section id="anomalies" class="screen"></section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>

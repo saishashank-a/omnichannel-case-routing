@@ -1,0 +1,16 @@
+[
+ {"asn_id":"ASN-TKT-2026-000001-001","ticket_id":"TKT-2026-000001","seq":1,"event_type":"ASSIGN","ts":"2026-01-03T14:06:00Z","queue_id":"QUE-BILLING","agent_id":"AGT-000001","translation_flag":0,"reason":"Skill match"},
+ {"asn_id":"ASN-TKT-2026-000001-002","ticket_id":"TKT-2026-000001","seq":2,"event_type":"TRANSFER","ts":"2026-01-03T14:40:00Z","queue_id":"QUE-BILLING","agent_id":"AGT-000002","translation_flag":0,"reason":"Queue balancing"},
+ {"asn_id":"ASN-TKT-2026-000001-003","ticket_id":"TKT-2026-000001","seq":3,"event_type":"RESOLVE","ts":"2026-01-03T15:10:00Z","queue_id":"QUE-BILLING","agent_id":"AGT-000002","translation_flag":0,"reason":"Resolved"},
+ {"asn_id":"ASN-TKT-2026-000002-001","ticket_id":"TKT-2026-000002","seq":1,"event_type":"ASSIGN","ts":"2026-01-03T14:12:30Z","queue_id":"QUE-TECH","agent_id":"AGT-000001","translation_flag":0,"reason":"Skill match"},
+ {"asn_id":"ASN-TKT-2026-000002-002","ticket_id":"TKT-2026-000002","seq":2,"event_type":"ESCALATE","ts":"2026-01-03T14:22:00Z","queue_id":"QUE-TECH","agent_id":"AGT-000002","translation_flag":0,"reason":"Specialist review"},
+ {"asn_id":"ASN-TKT-2026-000003-001","ticket_id":"TKT-2026-000003","seq":1,"event_type":"ASSIGN","ts":"2026-01-03T19:41:00Z","queue_id":"QUE-RETURNS","agent_id":"AGT-000002","translation_flag":1,"reason":"Spanish translation"},
+ {"asn_id":"ASN-TKT-2026-000003-002","ticket_id":"TKT-2026-000003","seq":2,"event_type":"RESOLVE","ts":"2026-01-03T20:03:00Z","queue_id":"QUE-RETURNS","agent_id":"AGT-000002","translation_flag":1,"reason":"Resolved"},
+ {"asn_id":"ASN-TKT-2026-000004-001","ticket_id":"TKT-2026-000004","seq":1,"event_type":"ASSIGN","ts":"2026-01-04T09:05:00Z","queue_id":"QUE-ACCOUNT","agent_id":"AGT-000001","translation_flag":0,"reason":"Language match"},
+ {"asn_id":"ASN-TKT-2026-000004-002","ticket_id":"TKT-2026-000004","seq":2,"event_type":"RESOLVE","ts":"2026-01-04T11:00:00Z","queue_id":"QUE-ACCOUNT","agent_id":"AGT-000001","translation_flag":0,"reason":"Resolved"},
+ {"asn_id":"ASN-TKT-2026-000004-003","ticket_id":"TKT-2026-000004","seq":3,"event_type":"REOPEN","ts":"2026-01-04T11:20:00Z","queue_id":"QUE-ACCOUNT","agent_id":"AGT-000001","translation_flag":0,"reason":"Customer replied"},
+ {"asn_id":"ASN-TKT-2026-000005-001","ticket_id":"TKT-2026-000005","seq":1,"event_type":"ASSIGN","ts":"2026-01-04T10:20:30Z","queue_id":"QUE-BILLING","agent_id":"AGT-000002","translation_flag":0,"reason":"Skill match"},
+ {"asn_id":"ASN-TKT-2026-000006-001","ticket_id":"TKT-2026-000006","seq":1,"event_type":"ASSIGN","ts":"2026-01-04T11:16:00Z","queue_id":"QUE-TECH","agent_id":null,"translation_flag":0,"reason":"Waiting for capacity"},
+ {"asn_id":"ASN-TKT-2026-000007-001","ticket_id":"TKT-2026-000007","seq":1,"event_type":"ASSIGN","ts":"2026-01-04T12:06:00Z","queue_id":"QUE-RETURNS","agent_id":"AGT-000001","translation_flag":1,"reason":"Translation support"},
+ {"asn_id":"ASN-TKT-2026-000008-001","ticket_id":"TKT-2026-000008","seq":1,"event_type":"ASSIGN","ts":"2026-01-04T13:41:00Z","queue_id":"QUE-ACCOUNT","agent_id":"AGT-000002","translation_flag":0,"reason":"Skill match"}
+]

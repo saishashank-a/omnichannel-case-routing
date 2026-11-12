@@ -1,0 +1,4 @@
+[
+ {"agent_id":"AGT-000001","display_name":"Avery Chen","shift_id":"SHF-DAY","max_concurrent_email":5,"max_concurrent_chat":3,"max_concurrent_phone":2},
+ {"agent_id":"AGT-000002","display_name":"Morgan Diaz","shift_id":"SHF-EVE","max_concurrent_email":4,"max_concurrent_chat":4,"max_concurrent_phone":2}
+]

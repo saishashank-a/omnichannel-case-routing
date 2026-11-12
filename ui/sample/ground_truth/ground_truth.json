@@ -1,0 +1,4 @@
+[
+ {"anomaly_id":"ANOM-001","issue_type":"SLA_BREACH","ticket_id":"TKT-2026-000002","entity_table":"sla_event","entity_id":"SLA-TKT-2026-000002-002","rule_violated":"First response exceeded due_at","field":"event_type","injected_value":"FIRST_RESPONSE_BREACHED","expected_value":"FIRST_RESPONSE_MET"},
+ {"anomaly_id":"ANOM-002","issue_type":"INVALID_TRANSFER","ticket_id":"TKT-2026-000001","entity_table":"assignment_event","entity_id":"ASN-TKT-2026-000001-002","rule_violated":"Transfer requires eligible queue","field":"queue_id","injected_value":"QUE-BILLING","expected_value":"QUE-RETURNS"}
+]

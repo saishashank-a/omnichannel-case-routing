@@ -1,0 +1,6 @@
+[
+ {"sla_event_id":"SLA-TKT-2026-000001-001","sla_id":"SLA-TKT-2026-000001","ticket_id":"TKT-2026-000001","cycle_no":1,"event_type":"CLOCK_STARTED","ts":"2026-01-03T14:05:00Z","due_at":"2026-01-03T14:20:00Z"},
+ {"sla_event_id":"SLA-TKT-2026-000001-002","sla_id":"SLA-TKT-2026-000001","ticket_id":"TKT-2026-000001","cycle_no":1,"event_type":"FIRST_RESPONSE_MET","ts":"2026-01-03T14:18:00Z","due_at":"2026-01-03T14:20:00Z"},
+ {"sla_event_id":"SLA-TKT-2026-000002-001","sla_id":"SLA-TKT-2026-000002","ticket_id":"TKT-2026-000002","cycle_no":1,"event_type":"CLOCK_STARTED","ts":"2026-01-03T14:12:00Z","due_at":"2026-01-03T14:14:00Z"},
+ {"sla_event_id":"SLA-TKT-2026-000002-002","sla_id":"SLA-TKT-2026-000002","ticket_id":"TKT-2026-000002","cycle_no":1,"event_type":"FIRST_RESPONSE_BREACHED","ts":"2026-01-03T14:15:00Z","due_at":"2026-01-03T14:14:00Z"}
+]

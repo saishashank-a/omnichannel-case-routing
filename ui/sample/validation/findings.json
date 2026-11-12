@@ -1,0 +1,4 @@
+[
+ {"issue_type":"SLA_BREACH","ticket_id":"TKT-2026-000002","check":"First response deadline","detail":"First response recorded after due time"},
+ {"issue_type":"CAPACITY_OVERFLOW","ticket_id":"TKT-2026-000005","check":"Agent capacity","detail":"Reported active chats exceed configured limit"}
+]

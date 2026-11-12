@@ -1,0 +1,11 @@
+[
+ {"message_id":"MSG-TKT-2026-000001-001","ticket_id":"TKT-2026-000001","seq":1,"ts":"2026-01-03T14:05:00Z","author_type":"CUSTOMER","channel_id":"EMAIL","agent_id":null,"body":"I have a question about my invoice."},
+ {"message_id":"MSG-TKT-2026-000001-002","ticket_id":"TKT-2026-000001","seq":2,"ts":"2026-01-03T14:18:00Z","author_type":"AGENT","channel_id":"EMAIL","agent_id":"AGT-000001","body":"I can help with that."},
+ {"message_id":"MSG-TKT-2026-000002-001","ticket_id":"TKT-2026-000002","seq":1,"ts":"2026-01-03T14:12:00Z","author_type":"CUSTOMER","channel_id":"CHAT","agent_id":null,"body":"The app will not open."},
+ {"message_id":"MSG-TKT-2026-000003-001","ticket_id":"TKT-2026-000003","seq":1,"ts":"2026-01-03T19:40:00Z","author_type":"CUSTOMER","channel_id":"PHONE","agent_id":null,"body":"Necesito devolver un artículo."},
+ {"message_id":"MSG-TKT-2026-000004-001","ticket_id":"TKT-2026-000004","seq":1,"ts":"2026-01-04T09:00:00Z","author_type":"CUSTOMER","channel_id":"EMAIL","agent_id":null,"body":"Please update my account details."},
+ {"message_id":"MSG-TKT-2026-000004-002","ticket_id":"TKT-2026-000004","seq":2,"ts":"2026-01-04T11:20:00Z","author_type":"CUSTOMER","channel_id":"EMAIL","agent_id":null,"body":"I still need help."},
+ {"message_id":"MSG-TKT-2026-000005-001","ticket_id":"TKT-2026-000005","seq":1,"ts":"2026-01-04T10:20:00Z","author_type":"CUSTOMER","channel_id":"CHAT","agent_id":null,"body":"I was charged twice."},
+ {"message_id":"MSG-TKT-2026-000007-001","ticket_id":"TKT-2026-000007","seq":1,"ts":"2026-01-04T12:05:00Z","author_type":"CUSTOMER","channel_id":"EMAIL","agent_id":null,"body":"Frage zu meiner Rücksendung."},
+ {"message_id":"MSG-TKT-2026-000008-001","ticket_id":"TKT-2026-000008","seq":1,"ts":"2026-01-04T13:40:00Z","author_type":"CUSTOMER","channel_id":"CHAT","agent_id":null,"body":"I need to change my email."}
+]
