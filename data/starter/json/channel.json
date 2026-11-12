@@ -1,0 +1,17 @@
+[
+  {
+    "channel_id": "CHAT",
+    "name": "Live chat",
+    "default_max_concurrent": 3
+  },
+  {
+    "channel_id": "EMAIL",
+    "name": "Email",
+    "default_max_concurrent": 5
+  },
+  {
+    "channel_id": "PHONE",
+    "name": "Phone",
+    "default_max_concurrent": 1
+  }
+]

@@ -1,0 +1,3202 @@
+[
+  {
+    "customer_id": "CUS-000001",
+    "display_name": "Ben Schmidt",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "de",
+    "created_at": "2025-03-01T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000002",
+    "display_name": "Quinn Rossi",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-05-15T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000003",
+    "display_name": "Asha Schmidt",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "de",
+    "created_at": "2025-03-21T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000004",
+    "display_name": "Pedro Fischer",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "en",
+    "created_at": "2025-02-01T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000005",
+    "display_name": "Dev Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-11-30T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000006",
+    "display_name": "Sven Fischer",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-04-10T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000007",
+    "display_name": "Grace Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-12-28T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000008",
+    "display_name": "Tara Fischer",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-07-29T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000009",
+    "display_name": "Pedro Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-06-01T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000010",
+    "display_name": "Sven Eriksen",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-06-22T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000011",
+    "display_name": "Farid Gupta",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-05-25T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000012",
+    "display_name": "Grace Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-12-04T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000013",
+    "display_name": "Pedro Dubois",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "de",
+    "created_at": "2025-12-14T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000014",
+    "display_name": "Ben Novak",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-06-29T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000015",
+    "display_name": "Rosa Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-05-20T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000016",
+    "display_name": "Carla Ito",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-09-04T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000017",
+    "display_name": "Hiro Novak",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-03-25T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000018",
+    "display_name": "Grace Chen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-11-10T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000019",
+    "display_name": "Olga Fischer",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-11-14T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000020",
+    "display_name": "Ines Fischer",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-05-13T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000021",
+    "display_name": "Dev Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-04-16T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000022",
+    "display_name": "Pedro Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-07-04T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000023",
+    "display_name": "Hiro Eriksen",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "en",
+    "created_at": "2025-06-19T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000024",
+    "display_name": "Nikhil Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-11-26T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000025",
+    "display_name": "Ines Rossi",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "fr",
+    "created_at": "2025-02-02T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000026",
+    "display_name": "Asha Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "es",
+    "created_at": "2025-07-21T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000027",
+    "display_name": "Asha Fischer",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "fr",
+    "created_at": "2025-12-09T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000028",
+    "display_name": "Liam Fischer",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-06-06T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000029",
+    "display_name": "Grace Haddad",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-12-31T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000030",
+    "display_name": "Sven Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-11-06T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000031",
+    "display_name": "Sven Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-12-31T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000032",
+    "display_name": "Asha Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-04-28T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000033",
+    "display_name": "Grace Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "fr",
+    "created_at": "2025-12-21T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000034",
+    "display_name": "Carla Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-07-01T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000035",
+    "display_name": "Pedro Lopez",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-04-21T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000036",
+    "display_name": "Ben Haddad",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-10-06T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000037",
+    "display_name": "Grace Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-11-23T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000038",
+    "display_name": "Carla Brooks",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-08-07T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000039",
+    "display_name": "Tara Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-03-21T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000040",
+    "display_name": "Rosa Haddad",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-03-18T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000041",
+    "display_name": "Hiro Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "fr",
+    "created_at": "2025-10-09T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000042",
+    "display_name": "Tara Dubois",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-11-19T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000043",
+    "display_name": "Farid Kumar",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-01-29T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000044",
+    "display_name": "Rosa Kumar",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-11-15T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000045",
+    "display_name": "Jonas Dubois",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-10-23T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000046",
+    "display_name": "Hiro Chen",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-10-01T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000047",
+    "display_name": "Asha Chen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-02-01T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000048",
+    "display_name": "Pedro Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-02-12T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000049",
+    "display_name": "Tara Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-04-28T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000050",
+    "display_name": "Rosa Gupta",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-12-04T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000051",
+    "display_name": "Dev Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-07-25T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000052",
+    "display_name": "Mara Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "es",
+    "created_at": "2025-01-25T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000053",
+    "display_name": "Asha Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-03-24T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000054",
+    "display_name": "Sven Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-07-09T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000055",
+    "display_name": "Ines Chen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-03-12T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000056",
+    "display_name": "Hiro Dubois",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-05-13T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000057",
+    "display_name": "Mara Dubois",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-10-07T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000058",
+    "display_name": "Kavya Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-07-30T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000059",
+    "display_name": "Jonas Ito",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-12-12T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000060",
+    "display_name": "Quinn Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "es",
+    "created_at": "2025-04-27T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000061",
+    "display_name": "Elena Okafor",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-06-10T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000062",
+    "display_name": "Tara Schmidt",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-04-30T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000063",
+    "display_name": "Tara Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-05-05T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000064",
+    "display_name": "Hiro Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-11-07T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000065",
+    "display_name": "Quinn Kumar",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-05-19T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000066",
+    "display_name": "Kavya Dubois",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "es",
+    "created_at": "2025-08-02T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000067",
+    "display_name": "Ben Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-11-24T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000068",
+    "display_name": "Grace Ito",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "es",
+    "created_at": "2025-02-10T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000069",
+    "display_name": "Quinn Novak",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-01-16T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000070",
+    "display_name": "Jonas Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "fr",
+    "created_at": "2025-11-14T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000071",
+    "display_name": "Dev Okafor",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-03-19T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000072",
+    "display_name": "Carla Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "es",
+    "created_at": "2025-11-14T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000073",
+    "display_name": "Jonas Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "fr",
+    "created_at": "2025-09-22T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000074",
+    "display_name": "Rosa Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-09-01T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000075",
+    "display_name": "Quinn Ito",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-06-08T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000076",
+    "display_name": "Nikhil Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-02-01T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000077",
+    "display_name": "Mara Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-02-20T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000078",
+    "display_name": "Sven Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-10-14T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000079",
+    "display_name": "Farid Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-12-14T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000080",
+    "display_name": "Tara Schmidt",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-02-22T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000081",
+    "display_name": "Hiro Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "de",
+    "created_at": "2025-08-18T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000082",
+    "display_name": "Ben Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "fr",
+    "created_at": "2025-08-21T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000083",
+    "display_name": "Tara Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-09-17T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000084",
+    "display_name": "Liam Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "de",
+    "created_at": "2025-10-03T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000085",
+    "display_name": "Tara Chen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-02-15T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000086",
+    "display_name": "Dev Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "fr",
+    "created_at": "2025-01-04T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000087",
+    "display_name": "Ben Dubois",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-07-14T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000088",
+    "display_name": "Liam Haddad",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-11-13T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000089",
+    "display_name": "Farid Eriksen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-03-02T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000090",
+    "display_name": "Mara Kumar",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "es",
+    "created_at": "2025-07-18T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000091",
+    "display_name": "Rosa Eriksen",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-07-02T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000092",
+    "display_name": "Quinn Gupta",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-11-23T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000093",
+    "display_name": "Jonas Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-03-17T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000094",
+    "display_name": "Asha Rossi",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-08-25T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000095",
+    "display_name": "Liam Brooks",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-03-21T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000096",
+    "display_name": "Kavya Fischer",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-12-20T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000097",
+    "display_name": "Liam Alvarez",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-11-17T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000098",
+    "display_name": "Ines Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-12-22T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000099",
+    "display_name": "Ben Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-11-14T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000100",
+    "display_name": "Asha Fischer",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "es",
+    "created_at": "2025-10-01T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000101",
+    "display_name": "Farid Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "fr",
+    "created_at": "2025-02-13T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000102",
+    "display_name": "Nikhil Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-09-08T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000103",
+    "display_name": "Grace Gupta",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "en",
+    "created_at": "2025-10-12T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000104",
+    "display_name": "Hiro Eriksen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "fr",
+    "created_at": "2025-10-19T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000105",
+    "display_name": "Sven Eriksen",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "fr",
+    "created_at": "2025-11-07T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000106",
+    "display_name": "Olga Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-07-20T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000107",
+    "display_name": "Dev Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "fr",
+    "created_at": "2025-08-01T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000108",
+    "display_name": "Ines Ito",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "en",
+    "created_at": "2025-10-10T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000109",
+    "display_name": "Kavya Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "en",
+    "created_at": "2025-05-22T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000110",
+    "display_name": "Kavya Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-03-23T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000111",
+    "display_name": "Quinn Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-01-07T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000112",
+    "display_name": "Pedro Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-04-30T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000113",
+    "display_name": "Farid Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "en",
+    "created_at": "2025-04-01T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000114",
+    "display_name": "Rosa Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-01-13T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000115",
+    "display_name": "Sven Haddad",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "de",
+    "created_at": "2025-05-23T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000116",
+    "display_name": "Sven Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-09-12T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000117",
+    "display_name": "Kavya Rossi",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-05-22T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000118",
+    "display_name": "Rosa Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-07-12T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000119",
+    "display_name": "Quinn Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-11-14T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000120",
+    "display_name": "Mara Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-08-11T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000121",
+    "display_name": "Liam Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-05-26T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000122",
+    "display_name": "Asha Eriksen",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "en",
+    "created_at": "2025-09-05T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000123",
+    "display_name": "Asha Gupta",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-06-26T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000124",
+    "display_name": "Kavya Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-08-10T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000125",
+    "display_name": "Hiro Patel",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "de",
+    "created_at": "2025-11-23T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000126",
+    "display_name": "Sven Chen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-08-19T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000127",
+    "display_name": "Rosa Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "fr",
+    "created_at": "2025-09-03T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000128",
+    "display_name": "Liam Eriksen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-08-24T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000129",
+    "display_name": "Asha Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-04-07T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000130",
+    "display_name": "Nikhil Ito",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-04-05T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000131",
+    "display_name": "Grace Chen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-04-06T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000132",
+    "display_name": "Asha Schmidt",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-09-11T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000133",
+    "display_name": "Farid Fischer",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "de",
+    "created_at": "2025-09-15T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000134",
+    "display_name": "Pedro Ito",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-10-08T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000135",
+    "display_name": "Ben Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-10-28T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000136",
+    "display_name": "Sven Rossi",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-02-01T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000137",
+    "display_name": "Mara Haddad",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-05-13T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000138",
+    "display_name": "Ines Chen",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "en",
+    "created_at": "2025-09-25T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000139",
+    "display_name": "Farid Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-07-22T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000140",
+    "display_name": "Pedro Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-06-29T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000141",
+    "display_name": "Hiro Kumar",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-08-04T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000142",
+    "display_name": "Ben Rossi",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-06-07T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000143",
+    "display_name": "Hiro Brooks",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-05-15T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000144",
+    "display_name": "Quinn Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-03-09T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000145",
+    "display_name": "Olga Fischer",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-03-04T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000146",
+    "display_name": "Pedro Dubois",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-02-08T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000147",
+    "display_name": "Mara Alvarez",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "de",
+    "created_at": "2025-07-06T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000148",
+    "display_name": "Dev Gupta",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-04-05T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000149",
+    "display_name": "Ines Gupta",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-11-07T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000150",
+    "display_name": "Olga Gupta",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "en",
+    "created_at": "2025-06-10T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000151",
+    "display_name": "Farid Chen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-12-24T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000152",
+    "display_name": "Ines Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-12-18T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000153",
+    "display_name": "Mara Eriksen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "fr",
+    "created_at": "2025-08-27T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000154",
+    "display_name": "Rosa Haddad",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-10-20T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000155",
+    "display_name": "Mara Ito",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "fr",
+    "created_at": "2025-12-04T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000156",
+    "display_name": "Dev Eriksen",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-01-16T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000157",
+    "display_name": "Grace Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-10-23T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000158",
+    "display_name": "Rosa Brooks",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-09-15T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000159",
+    "display_name": "Ben Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "de",
+    "created_at": "2025-03-17T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000160",
+    "display_name": "Jonas Ito",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "fr",
+    "created_at": "2025-07-19T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000161",
+    "display_name": "Grace Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-05-10T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000162",
+    "display_name": "Elena Jensen",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-03-06T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000163",
+    "display_name": "Nikhil Novak",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-04-28T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000164",
+    "display_name": "Tara Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-06-12T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000165",
+    "display_name": "Hiro Gupta",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-04-17T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000166",
+    "display_name": "Mara Schmidt",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-08-09T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000167",
+    "display_name": "Nikhil Haddad",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-04-23T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000168",
+    "display_name": "Quinn Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-01-28T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000169",
+    "display_name": "Rosa Moreau",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "es",
+    "created_at": "2025-08-25T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000170",
+    "display_name": "Ben Haddad",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-01-11T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000171",
+    "display_name": "Nikhil Kumar",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "en",
+    "created_at": "2025-12-22T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000172",
+    "display_name": "Ines Schmidt",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-11-22T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000173",
+    "display_name": "Sven Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-10-08T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000174",
+    "display_name": "Mara Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-08-25T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000175",
+    "display_name": "Nikhil Haddad",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-04-12T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000176",
+    "display_name": "Sven Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-09-02T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000177",
+    "display_name": "Grace Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-12-12T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000178",
+    "display_name": "Jonas Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-10-30T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000179",
+    "display_name": "Rosa Schmidt",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-11-04T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000180",
+    "display_name": "Kavya Ito",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-04-09T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000181",
+    "display_name": "Elena Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-02-11T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000182",
+    "display_name": "Carla Schmidt",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-04-03T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000183",
+    "display_name": "Quinn Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-03-24T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000184",
+    "display_name": "Asha Ito",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-08-08T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000185",
+    "display_name": "Elena Novak",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-03-13T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000186",
+    "display_name": "Quinn Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-01-27T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000187",
+    "display_name": "Hiro Schmidt",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "es",
+    "created_at": "2025-07-05T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000188",
+    "display_name": "Ben Haddad",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-09-30T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000189",
+    "display_name": "Kavya Novak",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "en",
+    "created_at": "2025-06-18T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000190",
+    "display_name": "Asha Dubois",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-10-27T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000191",
+    "display_name": "Asha Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "en",
+    "created_at": "2025-07-12T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000192",
+    "display_name": "Ben Chen",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-05-23T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000193",
+    "display_name": "Tara Rossi",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-11-05T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000194",
+    "display_name": "Rosa Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-01-17T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000195",
+    "display_name": "Mara Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-02-24T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000196",
+    "display_name": "Dev Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-05-08T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000197",
+    "display_name": "Pedro Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-01-29T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000198",
+    "display_name": "Tara Rossi",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "en",
+    "created_at": "2025-02-02T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000199",
+    "display_name": "Mara Alvarez",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-02-26T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000200",
+    "display_name": "Nikhil Haddad",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-09-08T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000201",
+    "display_name": "Farid Dubois",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-03-19T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000202",
+    "display_name": "Ines Haddad",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-10-18T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000203",
+    "display_name": "Asha Chen",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "en",
+    "created_at": "2025-12-11T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000204",
+    "display_name": "Tara Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-08-14T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000205",
+    "display_name": "Carla Gupta",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-08-17T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000206",
+    "display_name": "Tara Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-05-09T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000207",
+    "display_name": "Jonas Dubois",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-09-21T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000208",
+    "display_name": "Kavya Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-08-27T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000209",
+    "display_name": "Mara Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-05-07T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000210",
+    "display_name": "Kavya Haddad",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "es",
+    "created_at": "2025-10-08T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000211",
+    "display_name": "Farid Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-10-29T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000212",
+    "display_name": "Pedro Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-05-08T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000213",
+    "display_name": "Grace Novak",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-12-26T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000214",
+    "display_name": "Ines Novak",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "de",
+    "created_at": "2025-03-05T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000215",
+    "display_name": "Grace Fischer",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-07-27T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000216",
+    "display_name": "Pedro Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-02-15T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000217",
+    "display_name": "Elena Chen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-08-15T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000218",
+    "display_name": "Rosa Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-05-03T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000219",
+    "display_name": "Grace Kumar",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-06-14T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000220",
+    "display_name": "Ines Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-03-07T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000221",
+    "display_name": "Carla Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-10-27T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000222",
+    "display_name": "Farid Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "fr",
+    "created_at": "2025-08-11T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000223",
+    "display_name": "Mara Okafor",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "de",
+    "created_at": "2025-07-08T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000224",
+    "display_name": "Nikhil Rossi",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "en",
+    "created_at": "2025-07-11T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000225",
+    "display_name": "Asha Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-12-04T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000226",
+    "display_name": "Kavya Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-07-21T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000227",
+    "display_name": "Liam Novak",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-07-16T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000228",
+    "display_name": "Hiro Eriksen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-12-08T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000229",
+    "display_name": "Sven Chen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-04-16T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000230",
+    "display_name": "Kavya Novak",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-12-31T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000231",
+    "display_name": "Sven Schmidt",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-08-24T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000232",
+    "display_name": "Quinn Schmidt",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-08-05T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000233",
+    "display_name": "Mara Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-11-16T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000234",
+    "display_name": "Sven Ito",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "de",
+    "created_at": "2025-04-24T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000235",
+    "display_name": "Ines Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000236",
+    "display_name": "Mara Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-06-08T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000237",
+    "display_name": "Elena Rossi",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-05-25T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000238",
+    "display_name": "Liam Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "de",
+    "created_at": "2025-02-25T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000239",
+    "display_name": "Asha Eriksen",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-04-10T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000240",
+    "display_name": "Elena Ito",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-10-12T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000241",
+    "display_name": "Pedro Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "es",
+    "created_at": "2025-05-29T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000242",
+    "display_name": "Elena Novak",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-12-01T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000243",
+    "display_name": "Elena Novak",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-12-25T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000244",
+    "display_name": "Asha Haddad",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-10-19T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000245",
+    "display_name": "Farid Chen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-06-13T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000246",
+    "display_name": "Pedro Fischer",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "fr",
+    "created_at": "2025-09-22T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000247",
+    "display_name": "Ines Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-10-06T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000248",
+    "display_name": "Carla Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-06-19T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000249",
+    "display_name": "Mara Eriksen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-04-20T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000250",
+    "display_name": "Sven Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-12-25T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000251",
+    "display_name": "Farid Fischer",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-04-25T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000252",
+    "display_name": "Liam Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-06-07T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000253",
+    "display_name": "Nikhil Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "fr",
+    "created_at": "2025-12-06T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000254",
+    "display_name": "Kavya Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-05-28T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000255",
+    "display_name": "Grace Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-06-19T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000256",
+    "display_name": "Dev Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-03-23T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000257",
+    "display_name": "Olga Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-09-15T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000258",
+    "display_name": "Carla Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-09-11T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000259",
+    "display_name": "Mara Kumar",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-03-07T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000260",
+    "display_name": "Liam Schmidt",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "es",
+    "created_at": "2025-02-19T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000261",
+    "display_name": "Pedro Chen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-07-01T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000262",
+    "display_name": "Dev Haddad",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "de",
+    "created_at": "2025-11-05T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000263",
+    "display_name": "Farid Novak",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-01-18T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000264",
+    "display_name": "Tara Rossi",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "de",
+    "created_at": "2025-12-28T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000265",
+    "display_name": "Asha Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-08-08T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000266",
+    "display_name": "Liam Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-02-06T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000267",
+    "display_name": "Quinn Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-07-30T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000268",
+    "display_name": "Liam Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-07-30T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000269",
+    "display_name": "Olga Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-04-09T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000270",
+    "display_name": "Pedro Schmidt",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-09-02T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000271",
+    "display_name": "Sven Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "de",
+    "created_at": "2025-08-24T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000272",
+    "display_name": "Tara Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "de",
+    "created_at": "2025-06-24T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000273",
+    "display_name": "Olga Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-04-02T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000274",
+    "display_name": "Kavya Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-11-25T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000275",
+    "display_name": "Olga Eriksen",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "de",
+    "created_at": "2025-06-12T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000276",
+    "display_name": "Elena Kumar",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-04-29T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000277",
+    "display_name": "Carla Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-06-21T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000278",
+    "display_name": "Nikhil Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-03-21T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000279",
+    "display_name": "Jonas Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-02-24T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000280",
+    "display_name": "Pedro Eriksen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-03-14T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000281",
+    "display_name": "Kavya Rossi",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-03-25T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000282",
+    "display_name": "Rosa Novak",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-05-27T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000283",
+    "display_name": "Hiro Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-01-21T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000284",
+    "display_name": "Elena Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "de",
+    "created_at": "2025-06-12T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000285",
+    "display_name": "Rosa Haddad",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-06-24T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000286",
+    "display_name": "Pedro Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "fr",
+    "created_at": "2025-02-04T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000287",
+    "display_name": "Jonas Haddad",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-04-04T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000288",
+    "display_name": "Elena Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-04-01T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000289",
+    "display_name": "Elena Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-08-06T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000290",
+    "display_name": "Grace Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "es",
+    "created_at": "2025-12-28T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000291",
+    "display_name": "Mara Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "fr",
+    "created_at": "2025-09-26T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000292",
+    "display_name": "Carla Eriksen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-05-06T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000293",
+    "display_name": "Nikhil Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-08-26T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000294",
+    "display_name": "Quinn Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-05-02T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000295",
+    "display_name": "Liam Kumar",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-03-13T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000296",
+    "display_name": "Carla Rossi",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-05-18T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000297",
+    "display_name": "Sven Kumar",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-01-07T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000298",
+    "display_name": "Rosa Haddad",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "de",
+    "created_at": "2025-04-25T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000299",
+    "display_name": "Rosa Schmidt",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "de",
+    "created_at": "2025-09-15T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000300",
+    "display_name": "Quinn Chen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-01-03T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000301",
+    "display_name": "Mara Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-06-20T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000302",
+    "display_name": "Asha Dubois",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-03-02T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000303",
+    "display_name": "Dev Dubois",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-02-14T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000304",
+    "display_name": "Elena Rossi",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-07-25T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000305",
+    "display_name": "Farid Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-12-20T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000306",
+    "display_name": "Nikhil Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "fr",
+    "created_at": "2025-03-29T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000307",
+    "display_name": "Grace Kumar",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "en",
+    "created_at": "2025-12-04T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000308",
+    "display_name": "Elena Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "es",
+    "created_at": "2025-08-19T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000309",
+    "display_name": "Ben Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-01-23T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000310",
+    "display_name": "Sven Rossi",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-08-13T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000311",
+    "display_name": "Kavya Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-04-14T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000312",
+    "display_name": "Rosa Eriksen",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-07-06T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000313",
+    "display_name": "Grace Novak",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-12-07T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000314",
+    "display_name": "Farid Schmidt",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-02-14T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000315",
+    "display_name": "Tara Haddad",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-03-21T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000316",
+    "display_name": "Dev Kumar",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "fr",
+    "created_at": "2025-02-05T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000317",
+    "display_name": "Quinn Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-09-09T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000318",
+    "display_name": "Carla Schmidt",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-09-28T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000319",
+    "display_name": "Grace Eriksen",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "de",
+    "created_at": "2025-02-16T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000320",
+    "display_name": "Liam Chen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-04-08T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000321",
+    "display_name": "Olga Fischer",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-12-28T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000322",
+    "display_name": "Olga Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "en",
+    "created_at": "2025-04-20T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000323",
+    "display_name": "Liam Ito",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-05-04T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000324",
+    "display_name": "Quinn Haddad",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-05-10T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000325",
+    "display_name": "Asha Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "de",
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000326",
+    "display_name": "Liam Eriksen",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "fr",
+    "created_at": "2025-03-25T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000327",
+    "display_name": "Ines Ito",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-01-23T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000328",
+    "display_name": "Farid Eriksen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "de",
+    "created_at": "2025-12-30T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000329",
+    "display_name": "Mara Fischer",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "en",
+    "created_at": "2025-09-14T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000330",
+    "display_name": "Olga Novak",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "de",
+    "created_at": "2025-08-10T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000331",
+    "display_name": "Kavya Rossi",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "fr",
+    "created_at": "2025-09-23T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000332",
+    "display_name": "Grace Okafor",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "es",
+    "created_at": "2025-03-29T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000333",
+    "display_name": "Farid Chen",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-05-11T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000334",
+    "display_name": "Sven Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-10-11T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000335",
+    "display_name": "Grace Schmidt",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "es",
+    "created_at": "2025-11-03T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000336",
+    "display_name": "Carla Novak",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-06-01T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000337",
+    "display_name": "Hiro Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "de",
+    "created_at": "2025-02-13T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000338",
+    "display_name": "Ines Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-06-05T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000339",
+    "display_name": "Rosa Gupta",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-03-20T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000340",
+    "display_name": "Hiro Chen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-05-19T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000341",
+    "display_name": "Hiro Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-05-28T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000342",
+    "display_name": "Farid Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-12-12T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000343",
+    "display_name": "Kavya Chen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-10-21T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000344",
+    "display_name": "Pedro Rossi",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-11-20T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000345",
+    "display_name": "Mara Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-06-28T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000346",
+    "display_name": "Jonas Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "fr",
+    "created_at": "2025-11-17T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000347",
+    "display_name": "Quinn Chen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-06-22T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000348",
+    "display_name": "Jonas Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-09-22T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000349",
+    "display_name": "Hiro Schmidt",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "es",
+    "created_at": "2025-10-14T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000350",
+    "display_name": "Nikhil Kumar",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "es",
+    "created_at": "2025-04-15T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000351",
+    "display_name": "Nikhil Kumar",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-03-13T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000352",
+    "display_name": "Sven Moreau",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-08-21T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000353",
+    "display_name": "Liam Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-07-06T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000354",
+    "display_name": "Tara Dubois",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "de",
+    "created_at": "2025-12-29T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000355",
+    "display_name": "Kavya Dubois",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "de",
+    "created_at": "2025-04-03T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000356",
+    "display_name": "Kavya Moreau",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "fr",
+    "created_at": "2025-06-28T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000357",
+    "display_name": "Nikhil Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-06-10T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000358",
+    "display_name": "Grace Kumar",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-03-15T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000359",
+    "display_name": "Tara Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-03-10T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000360",
+    "display_name": "Ines Dubois",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-09-20T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000361",
+    "display_name": "Ines Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-01-27T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000362",
+    "display_name": "Tara Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-06-19T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000363",
+    "display_name": "Olga Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "de",
+    "created_at": "2025-01-03T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000364",
+    "display_name": "Grace Kumar",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-03-16T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000365",
+    "display_name": "Ines Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-06-14T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000366",
+    "display_name": "Asha Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-04-09T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000367",
+    "display_name": "Pedro Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-06-25T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000368",
+    "display_name": "Rosa Ito",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "es",
+    "created_at": "2025-08-18T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000369",
+    "display_name": "Jonas Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-03-11T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000370",
+    "display_name": "Kavya Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "es",
+    "created_at": "2025-06-18T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000371",
+    "display_name": "Asha Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-12-25T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000372",
+    "display_name": "Liam Haddad",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-09-25T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000373",
+    "display_name": "Mara Haddad",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "de",
+    "created_at": "2025-11-08T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000374",
+    "display_name": "Olga Novak",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-05-29T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000375",
+    "display_name": "Tara Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-09-21T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000376",
+    "display_name": "Ben Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "de",
+    "created_at": "2025-03-07T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000377",
+    "display_name": "Tara Chen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-05-08T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000378",
+    "display_name": "Dev Ito",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-03-25T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000379",
+    "display_name": "Sven Rossi",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-07-21T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000380",
+    "display_name": "Olga Fischer",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-11-27T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000381",
+    "display_name": "Hiro Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-03-26T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000382",
+    "display_name": "Rosa Lopez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-07-05T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000383",
+    "display_name": "Hiro Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-10-29T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000384",
+    "display_name": "Carla Rossi",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-02-22T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000385",
+    "display_name": "Sven Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-05-08T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000386",
+    "display_name": "Kavya Okafor",
+    "customer_type": "CUSTOMER",
+    "tier": "ENTERPRISE",
+    "preferred_language": "fr",
+    "created_at": "2025-07-22T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000387",
+    "display_name": "Mara Patel",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-11-23T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000388",
+    "display_name": "Quinn Ito",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "fr",
+    "created_at": "2025-08-20T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000389",
+    "display_name": "Quinn Eriksen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "fr",
+    "created_at": "2025-03-07T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000390",
+    "display_name": "Jonas Dubois",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-03-24T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000391",
+    "display_name": "Quinn Alvarez",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-01-22T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000392",
+    "display_name": "Liam Jensen",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-07-03T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000393",
+    "display_name": "Ines Novak",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-11-08T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000394",
+    "display_name": "Pedro Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-04-13T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000395",
+    "display_name": "Olga Rossi",
+    "customer_type": "CUSTOMER",
+    "tier": "PREMIUM",
+    "preferred_language": "en",
+    "created_at": "2025-12-04T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000396",
+    "display_name": "Pedro Rossi",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-09-22T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000397",
+    "display_name": "Ines Brooks",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-04-14T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000398",
+    "display_name": "Ben Patel",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-04-21T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000399",
+    "display_name": "Mara Okafor",
+    "customer_type": "PROSPECT",
+    "tier": null,
+    "preferred_language": "en",
+    "created_at": "2025-10-11T00:00:00Z"
+  },
+  {
+    "customer_id": "CUS-000400",
+    "display_name": "Asha Kumar",
+    "customer_type": "CUSTOMER",
+    "tier": "STANDARD",
+    "preferred_language": "en",
+    "created_at": "2025-04-16T00:00:00Z"
+  }
+]

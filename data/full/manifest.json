@@ -1,0 +1,185 @@
+{
+  "generator": "python -m caserouting generate --scale full --seed 20261022",
+  "scale": "full",
+  "seed": 20261022,
+  "parameters": {
+    "tickets": 30000,
+    "messages": 100000,
+    "agents": 100,
+    "customers": 8000,
+    "days": 90,
+    "spike_days": [
+      10,
+      24,
+      37,
+      51,
+      66,
+      80
+    ],
+    "outage_days": [
+      20,
+      58
+    ],
+    "anomalies_per_type": 30
+  },
+  "external_data": "none: every record is synthetic; language codes follow ISO 639-1",
+  "baseline_findings": 0,
+  "structural_failures": 0,
+  "files": {
+    "csv/agent.csv": {
+      "sha256": "25e7c8bd9cc143b7acd36aa8cd789b9c9405ed64401105993765975e648762e6",
+      "rows": 100
+    },
+    "csv/agent_language.csv": {
+      "sha256": "d5bde0f68bfcf24e5648d364ed1d84b4e9187da2609ec3e22ddf0a41b43c3eb6",
+      "rows": 155
+    },
+    "csv/agent_skill.csv": {
+      "sha256": "d98627bb9e3dea1239752e293f465464449f3c21dbe00b63f4a846bd804c1914",
+      "rows": 234
+    },
+    "csv/assignment_event.csv": {
+      "sha256": "f056ace7a596a06c62bf27d1a7555b6809266321896cb3b9eafcb1ac0c494830",
+      "rows": 69594
+    },
+    "csv/channel.csv": {
+      "sha256": "b9e3a402e6d4c42e4e6fd0affdc53022850c6e53d6a505ab75abf122775d847c",
+      "rows": 3
+    },
+    "csv/customer.csv": {
+      "sha256": "626655db9784f21a8994c95c5ba0c1068ff9ca871a91bb8dde125985ba34f6ef",
+      "rows": 8000
+    },
+    "csv/intent.csv": {
+      "sha256": "136fba95f32245d8a0d72e583d203f8ee5988d82ec50ac2a77cb6980a0e170fa",
+      "rows": 11
+    },
+    "csv/language.csv": {
+      "sha256": "e635bd8464bf6d367df455521a0ad09851f629a18af2125c2af6b2da8f4710d0",
+      "rows": 4
+    },
+    "csv/message.csv": {
+      "sha256": "499674a6fabdd03e22ca23f2df47fcb932fb93314648c39fc2ec6a20a939b7ac",
+      "rows": 100000
+    },
+    "csv/priority_rule.csv": {
+      "sha256": "d385df8cb7bf87409d12f40497cdd79c0ea61ba9ac770b5a26ce57e72948106d",
+      "rows": 5
+    },
+    "csv/queue.csv": {
+      "sha256": "c3fbb6b7922d92e25e90bf33bd64deca6d2a5633199df42cb84e5694f54b75c7",
+      "rows": 5
+    },
+    "csv/resolution.csv": {
+      "sha256": "dedd06a83aa492d4642f3f7671b676ada3cbe250854fb2184ac9100cff0534ef",
+      "rows": 31559
+    },
+    "csv/shift.csv": {
+      "sha256": "76b114b6616dd6cea56d26cbf8b27441952b7d615de67ecea5b8170a8a71d06d",
+      "rows": 3
+    },
+    "csv/skill.csv": {
+      "sha256": "58ac550b5949ad3aeaffed8198c60b2b624e5b35c920939e43180f4f7f2fcec9",
+      "rows": 5
+    },
+    "csv/sla.csv": {
+      "sha256": "d6cde7ee1f5c7462cacb3e8a0443140b204843242b9eee387b9676a6a123208b",
+      "rows": 30000
+    },
+    "csv/sla_event.csv": {
+      "sha256": "2beeeb2141a1b6c6b9f4b8684cdcd25fa56728c96cb562b502f1a35db5544e14",
+      "rows": 93148
+    },
+    "csv/sla_policy.csv": {
+      "sha256": "24ababe166ac48efc97b4520c6e2fb1a2a08b86abca1fff2540a8dcee0c3e8de",
+      "rows": 12
+    },
+    "csv/ticket.csv": {
+      "sha256": "e2898371bc99b54d4b036616d1d3cf13450b623a00666418e00edb2d8d05598e",
+      "rows": 30000
+    },
+    "ground_truth/expected_decisions.csv": {
+      "sha256": "fe015db30d8a4f72a762d6fbac312ffc7a0dd2a50e5af12ad3dbbe5377f2b312",
+      "rows": 30000
+    },
+    "ground_truth/expected_decisions.json": {
+      "sha256": "8c9d0cce4097220a2de872e9d3e2949e7cb6e7c3c0f61b93b6df6df58c9c9f10"
+    },
+    "ground_truth/ground_truth.csv": {
+      "sha256": "4dfdd2511cf49911a7d56ae0b3ec0faaa61f5b81fd12b2e843e5c25f279aea68",
+      "rows": 150
+    },
+    "ground_truth/ground_truth.json": {
+      "sha256": "966fd69bd1bac4584f5bfbe47ae1393d3d50cd5157aa59cdc267af81a1344396"
+    },
+    "json/agent.json": {
+      "sha256": "383143cbc9e20d048fdb8d25b59444440ca3742e7b13ba2f3468c56425118c3b"
+    },
+    "json/agent_language.json": {
+      "sha256": "2c1cbcf79c8b15d0dd1f3329ebcc268616f3d2b664631115841fd6d466cf2420"
+    },
+    "json/agent_skill.json": {
+      "sha256": "fae6ce7f38c93998bc438c00db94bfd87c906ca01d5464a90ac1db19810df53e"
+    },
+    "json/assignment_event.json": {
+      "sha256": "9df1bfc031459474401946930eddf3486b224cea60009948f0c9008e18ff26bd"
+    },
+    "json/channel.json": {
+      "sha256": "49e0469fbe35989e0f36c4eeaab73396f830bb9e970310a4860345163db77850"
+    },
+    "json/customer.json": {
+      "sha256": "bf955368ab50f20bed4c2aaf3331c7dc63f385aef5a37c37fb13e3111346a8fe"
+    },
+    "json/intent.json": {
+      "sha256": "b8c9f2035304dabba69a188355cbfd5bb701e08cc59da1a362def08e52c2bcdf"
+    },
+    "json/language.json": {
+      "sha256": "ae83fdef7bf17d57b983c7719a6eb69ca520922a6f46c43e4bcaddfcae88b6cc"
+    },
+    "json/message.json": {
+      "sha256": "2ac499b7ed2dfbb873903ab459867553893f266e559e099590388f50f651fb0d"
+    },
+    "json/priority_rule.json": {
+      "sha256": "42fb845471966b993694b33f9df84abe6f3b225280bb61621d2ae564f60690df"
+    },
+    "json/queue.json": {
+      "sha256": "6b6f357528ac08f5c3a4d7653666c145be25646d84da3ddd1ff6f8efdc8566c9"
+    },
+    "json/resolution.json": {
+      "sha256": "032ec3fdea074320dc41ee5d6ecd0a4c02cf4eba4f1f00574e006622a935411e"
+    },
+    "json/shift.json": {
+      "sha256": "293d97ce652008e221ee89666ecbb04b9ff3db5096ff3b3b1de60678a17ed2d2"
+    },
+    "json/skill.json": {
+      "sha256": "012846f22fadb669466780710a8bb473a9bed3fc535afd618fd858023d133cc0"
+    },
+    "json/sla.json": {
+      "sha256": "737d53356d9e8a3ad003510dd568785287262661f39b65ea724824375b426a6d"
+    },
+    "json/sla_event.json": {
+      "sha256": "e162f86c4ab97babe13480fb3ab2a8564da6a7f403f82795bbac2ea8ad086aea"
+    },
+    "json/sla_policy.json": {
+      "sha256": "9a46de7a21d2db1aabae0a6828be33bef532326e9e8327186479d298683a4034"
+    },
+    "json/ticket.json": {
+      "sha256": "e724fd3898dffabe55794cbad152869d807a04ba47410e90518eba0c25a0607c"
+    },
+    "metrics.json": {
+      "sha256": "9c58765a22883fd9410f4caa896f72f6c30b7d4e1d87f9553e10d0c8bf75393f"
+    },
+    "seed.sql": {
+      "sha256": "e21ae1f133e663759ca85500b1f1e7e30ccadc09a17e4a630b30ad4ef20d17fe"
+    },
+    "validation/findings.json": {
+      "sha256": "5dc1ca2bbf20078da2efc531f36fe7a10816eedb0fe58e19c6d4a67d2f47d239"
+    },
+    "validation/structural_failures.json": {
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "validation_summary.md": {
+      "sha256": "626cd25b62f2168137ac0e7d771655ee81e58cb467535ab783213af4952c9533"
+    }
+  }
+}

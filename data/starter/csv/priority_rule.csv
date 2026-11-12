@@ -1,0 +1,6 @@
+rule_id,description,effective_from,effective_to
+PRL-001,Start from the intent's default priority,2026-01-01T00:00:00Z,
+PRL-002,Urgency HIGH raises priority one level,2026-01-01T00:00:00Z,
+PRL-003,ENTERPRISE customers raise priority one level,2026-01-01T00:00:00Z,
+PRL-004,Non-safety tickets are capped at P2,2026-01-01T00:00:00Z,
+PRL-005,SAFETY RULE: safety intents are always P1,2026-01-01T00:00:00Z,

@@ -1,0 +1,180 @@
+{
+  "generator": "python -m caserouting generate --scale starter --seed 20261022",
+  "scale": "starter",
+  "seed": 20261022,
+  "parameters": {
+    "tickets": 1000,
+    "messages": 3333,
+    "agents": 20,
+    "customers": 400,
+    "days": 14,
+    "spike_days": [
+      3,
+      9
+    ],
+    "outage_days": [
+      6
+    ],
+    "anomalies_per_type": 5
+  },
+  "external_data": "none: every record is synthetic; language codes follow ISO 639-1",
+  "baseline_findings": 0,
+  "structural_failures": 0,
+  "files": {
+    "csv/agent.csv": {
+      "sha256": "5b715079c1334194935e80ffaf293f297ea85aa85c5fd74628baf6a4e12dc705",
+      "rows": 20
+    },
+    "csv/agent_language.csv": {
+      "sha256": "065298233ce3891364c8dd0608d4503404a1c0f9fce0861178294e466b2680cd",
+      "rows": 34
+    },
+    "csv/agent_skill.csv": {
+      "sha256": "81bc7f2d741f96683494d8b1f0170e25d684ba698865b893ded10ade645a4997",
+      "rows": 50
+    },
+    "csv/assignment_event.csv": {
+      "sha256": "10ac0c5f64f61da43b35a644c793097afa0105ae8087619e1f0e0b1c41580293",
+      "rows": 2352
+    },
+    "csv/channel.csv": {
+      "sha256": "b9e3a402e6d4c42e4e6fd0affdc53022850c6e53d6a505ab75abf122775d847c",
+      "rows": 3
+    },
+    "csv/customer.csv": {
+      "sha256": "e9e13c7f4f177db21c701a7d7a339827e7029b4739f2eb7df8e46ee0c1f50b59",
+      "rows": 400
+    },
+    "csv/intent.csv": {
+      "sha256": "136fba95f32245d8a0d72e583d203f8ee5988d82ec50ac2a77cb6980a0e170fa",
+      "rows": 11
+    },
+    "csv/language.csv": {
+      "sha256": "e635bd8464bf6d367df455521a0ad09851f629a18af2125c2af6b2da8f4710d0",
+      "rows": 4
+    },
+    "csv/message.csv": {
+      "sha256": "4cc87359221b45dd4346bba02c64ca626a851f5f9adf1238056b96a350a316e2",
+      "rows": 3333
+    },
+    "csv/priority_rule.csv": {
+      "sha256": "d385df8cb7bf87409d12f40497cdd79c0ea61ba9ac770b5a26ce57e72948106d",
+      "rows": 5
+    },
+    "csv/queue.csv": {
+      "sha256": "c3fbb6b7922d92e25e90bf33bd64deca6d2a5633199df42cb84e5694f54b75c7",
+      "rows": 5
+    },
+    "csv/resolution.csv": {
+      "sha256": "7db53230ff63a067a60249003f22cf2bb61ce45b801634826166e8c3765d8fb1",
+      "rows": 1055
+    },
+    "csv/shift.csv": {
+      "sha256": "76b114b6616dd6cea56d26cbf8b27441952b7d615de67ecea5b8170a8a71d06d",
+      "rows": 3
+    },
+    "csv/skill.csv": {
+      "sha256": "58ac550b5949ad3aeaffed8198c60b2b624e5b35c920939e43180f4f7f2fcec9",
+      "rows": 5
+    },
+    "csv/sla.csv": {
+      "sha256": "4b3c1ee7fdf8384e8d95a7a16bd2b11ec47660904abc4ba141f5899467844e7d",
+      "rows": 1000
+    },
+    "csv/sla_event.csv": {
+      "sha256": "cdbe9b8bcb71fa310fee84ebe799ff94483da9aedbc655bb0d2a5f39ea0e0ce1",
+      "rows": 3115
+    },
+    "csv/sla_policy.csv": {
+      "sha256": "24ababe166ac48efc97b4520c6e2fb1a2a08b86abca1fff2540a8dcee0c3e8de",
+      "rows": 12
+    },
+    "csv/ticket.csv": {
+      "sha256": "4d45fdff822c74021089c6b30889ebe669292d3c4d6511fe485b63ed588ed2b2",
+      "rows": 1000
+    },
+    "ground_truth/expected_decisions.csv": {
+      "sha256": "2ee86b6db806532d4314178e97cd40981f51b6eb178e899888a5cc9c15e929c1",
+      "rows": 1000
+    },
+    "ground_truth/expected_decisions.json": {
+      "sha256": "6142e0cfeda47d6bb0927e70893742694f9ddeedad2899886e86c4b133d56370"
+    },
+    "ground_truth/ground_truth.csv": {
+      "sha256": "7e06d9cc622eb8ea6a7ec6618d46e980200bb98db3dfa41f93cabb028de6b94d",
+      "rows": 25
+    },
+    "ground_truth/ground_truth.json": {
+      "sha256": "70827333af9e7af9af45683d4ac316d224017b9c0d9a41093a6a4c9dfa076b0b"
+    },
+    "json/agent.json": {
+      "sha256": "1452393b9e0898424225293f95f47e3188dfe786a151f2f5a9876cd927a91533"
+    },
+    "json/agent_language.json": {
+      "sha256": "3000be7cf10bf990aa8a073c6d2b1104174be101465d55ab7a99547c591593d2"
+    },
+    "json/agent_skill.json": {
+      "sha256": "1ce13db6bd53ac69ee1480c5ca976f9204d45a474693eebb5bcfdc73d9b3e676"
+    },
+    "json/assignment_event.json": {
+      "sha256": "5e633368815bd1e0a075aec68a128bc73c60326801100a260ba78aced93622f6"
+    },
+    "json/channel.json": {
+      "sha256": "49e0469fbe35989e0f36c4eeaab73396f830bb9e970310a4860345163db77850"
+    },
+    "json/customer.json": {
+      "sha256": "5da13e096fac808f0fd06dd51adc6f0249b88ff263f9ebb7ffacce15bed438f0"
+    },
+    "json/intent.json": {
+      "sha256": "b8c9f2035304dabba69a188355cbfd5bb701e08cc59da1a362def08e52c2bcdf"
+    },
+    "json/language.json": {
+      "sha256": "ae83fdef7bf17d57b983c7719a6eb69ca520922a6f46c43e4bcaddfcae88b6cc"
+    },
+    "json/message.json": {
+      "sha256": "0088857bdb8b209fccef83deb8c03411f621dddf75c29f7a6475646781ff51ab"
+    },
+    "json/priority_rule.json": {
+      "sha256": "42fb845471966b993694b33f9df84abe6f3b225280bb61621d2ae564f60690df"
+    },
+    "json/queue.json": {
+      "sha256": "6b6f357528ac08f5c3a4d7653666c145be25646d84da3ddd1ff6f8efdc8566c9"
+    },
+    "json/resolution.json": {
+      "sha256": "c8b94227a542870963b5ca4463b56b47ac75e45c468c13375f4b431d75b1ac8d"
+    },
+    "json/shift.json": {
+      "sha256": "293d97ce652008e221ee89666ecbb04b9ff3db5096ff3b3b1de60678a17ed2d2"
+    },
+    "json/skill.json": {
+      "sha256": "012846f22fadb669466780710a8bb473a9bed3fc535afd618fd858023d133cc0"
+    },
+    "json/sla.json": {
+      "sha256": "30c89f9ffc34048216ceae31bc7ea6dd4d42ec8f096c4b532317323cf9edcc1d"
+    },
+    "json/sla_event.json": {
+      "sha256": "bbf15304f9fd2676c2f874bdb5f60f95f2e3e628461bb1a377972f136199eb01"
+    },
+    "json/sla_policy.json": {
+      "sha256": "9a46de7a21d2db1aabae0a6828be33bef532326e9e8327186479d298683a4034"
+    },
+    "json/ticket.json": {
+      "sha256": "d6d67f3e4f4ae1f93a078ec3dca15b37b9849800055351e96d07b77796dc5cbc"
+    },
+    "metrics.json": {
+      "sha256": "6f93635ddf42e877a4f87070ad8ff368d221dcb412f28a1670a286d24c71939c"
+    },
+    "seed.sql": {
+      "sha256": "fbba090baa8f85f4d32bf408f8b78a96d247b9e4c6dae9491bfecade9b2f0e5c"
+    },
+    "validation/findings.json": {
+      "sha256": "d37551d8366ce757dc4641b6aa6656556efe59e6f1a45866e1650ba454a6dd8a"
+    },
+    "validation/structural_failures.json": {
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "validation_summary.md": {
+      "sha256": "34790f47be098eea678c42b60281daadad24defeb91cb3519fabf901258195ca"
+    }
+  }
+}

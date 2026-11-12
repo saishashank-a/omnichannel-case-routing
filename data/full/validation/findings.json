@@ -1,0 +1,902 @@
+[
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-000904",
+    "check": "capacity",
+    "detail": "AGT-000089 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-003068",
+    "check": "capacity",
+    "detail": "AGT-000093 holds 4 CHAT tickets, limit 3"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-003804",
+    "check": "capacity",
+    "detail": "AGT-000002 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-004457",
+    "check": "capacity",
+    "detail": "AGT-000002 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-004762",
+    "check": "capacity",
+    "detail": "AGT-000051 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-005146",
+    "check": "capacity",
+    "detail": "AGT-000086 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-005380",
+    "check": "capacity",
+    "detail": "AGT-000089 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-005732",
+    "check": "capacity",
+    "detail": "AGT-000086 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-006049",
+    "check": "capacity",
+    "detail": "AGT-000051 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-006751",
+    "check": "capacity",
+    "detail": "AGT-000061 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-006920",
+    "check": "capacity",
+    "detail": "AGT-000051 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-007981",
+    "check": "capacity",
+    "detail": "AGT-000086 holds 6 EMAIL tickets, limit 5"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-008640",
+    "check": "capacity",
+    "detail": "AGT-000002 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-009502",
+    "check": "capacity",
+    "detail": "AGT-000001 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-012210",
+    "check": "capacity",
+    "detail": "AGT-000055 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-013648",
+    "check": "capacity",
+    "detail": "AGT-000051 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-013857",
+    "check": "capacity",
+    "detail": "AGT-000002 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-014031",
+    "check": "capacity",
+    "detail": "AGT-000053 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-015811",
+    "check": "capacity",
+    "detail": "AGT-000002 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-017051",
+    "check": "capacity",
+    "detail": "AGT-000001 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-020306",
+    "check": "capacity",
+    "detail": "AGT-000001 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-023275",
+    "check": "capacity",
+    "detail": "AGT-000058 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-023850",
+    "check": "capacity",
+    "detail": "AGT-000001 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-024468",
+    "check": "capacity",
+    "detail": "AGT-000090 holds 4 CHAT tickets, limit 3"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-024492",
+    "check": "capacity",
+    "detail": "AGT-000086 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-025126",
+    "check": "capacity",
+    "detail": "AGT-000002 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-026207",
+    "check": "capacity",
+    "detail": "AGT-000002 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-027993",
+    "check": "capacity",
+    "detail": "AGT-000002 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-028212",
+    "check": "capacity",
+    "detail": "AGT-000002 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "CAPACITY_EXCEEDED",
+    "ticket_id": "TKT-2026-028469",
+    "check": "capacity",
+    "detail": "AGT-000051 holds 2 PHONE tickets, limit 1"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-002364",
+    "check": "safety_rule",
+    "detail": "safety intent INT-OUTAGE has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-002550",
+    "check": "safety_rule",
+    "detail": "safety intent INT-OUTAGE has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-004908",
+    "check": "safety_rule",
+    "detail": "safety intent INT-OUTAGE has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-006350",
+    "check": "safety_rule",
+    "detail": "safety intent INT-OUTAGE has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-006365",
+    "check": "safety_rule",
+    "detail": "safety intent INT-OUTAGE has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-006462",
+    "check": "safety_rule",
+    "detail": "safety intent INT-OUTAGE has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-006710",
+    "check": "safety_rule",
+    "detail": "safety intent INT-OUTAGE has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-006715",
+    "check": "safety_rule",
+    "detail": "safety intent INT-OUTAGE has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-006732",
+    "check": "safety_rule",
+    "detail": "safety intent INT-OUTAGE has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-006813",
+    "check": "safety_rule",
+    "detail": "safety intent INT-OUTAGE has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-007201",
+    "check": "safety_rule",
+    "detail": "safety intent INT-SAFETY_HAZARD has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-007493",
+    "check": "safety_rule",
+    "detail": "safety intent INT-OUTAGE has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-008566",
+    "check": "safety_rule",
+    "detail": "safety intent INT-SECURITY has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-008619",
+    "check": "safety_rule",
+    "detail": "safety intent INT-SECURITY has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-010827",
+    "check": "safety_rule",
+    "detail": "safety intent INT-OUTAGE has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-015155",
+    "check": "safety_rule",
+    "detail": "safety intent INT-OUTAGE has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-016933",
+    "check": "safety_rule",
+    "detail": "safety intent INT-SAFETY_HAZARD has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-019143",
+    "check": "safety_rule",
+    "detail": "safety intent INT-OUTAGE has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-019360",
+    "check": "safety_rule",
+    "detail": "safety intent INT-OUTAGE has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-020263",
+    "check": "safety_rule",
+    "detail": "safety intent INT-SECURITY has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-021162",
+    "check": "safety_rule",
+    "detail": "safety intent INT-OUTAGE has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-021776",
+    "check": "safety_rule",
+    "detail": "safety intent INT-SECURITY has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-022260",
+    "check": "safety_rule",
+    "detail": "safety intent INT-OUTAGE has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-022880",
+    "check": "safety_rule",
+    "detail": "safety intent INT-OUTAGE has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-024201",
+    "check": "safety_rule",
+    "detail": "safety intent INT-SAFETY_HAZARD has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-026132",
+    "check": "safety_rule",
+    "detail": "safety intent INT-SAFETY_HAZARD has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-026205",
+    "check": "safety_rule",
+    "detail": "safety intent INT-SECURITY has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-028427",
+    "check": "safety_rule",
+    "detail": "safety intent INT-OUTAGE has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-028752",
+    "check": "safety_rule",
+    "detail": "safety intent INT-OUTAGE has priority P3"
+  },
+  {
+    "issue_type": "PRIORITY_SAFETY_VIOLATION",
+    "ticket_id": "TKT-2026-029502",
+    "check": "safety_rule",
+    "detail": "safety intent INT-OUTAGE has priority P3"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-001085",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-001662",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-003361",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-005554",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-006512",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-007018",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-007439",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-010262",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-011022",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-015018",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-015149",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-015383",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-015500",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-016795",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-016998",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-017086",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-017856",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-017899",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-019361",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-019973",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-020329",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-021107",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-021402",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-022740",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-025662",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-026282",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-027059",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-027621",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-027860",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "REOPEN_HISTORY_LOST",
+    "ticket_id": "TKT-2026-028749",
+    "check": "history_complete",
+    "detail": "assignment seq is [3, 4, 5], not 1..n"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-000531",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-01-04T21:46:00Z, calendar gives 12600"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-002257",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-01-09T08:24:00Z, calendar gives 16584"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-002743",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-01-11T20:19:00Z, calendar gives 19219"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-004307",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-01-15T13:24:00Z, calendar gives 22044"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-004758",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-01-16T16:42:00Z, calendar gives 28440"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-006581",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-01-22T11:24:00Z, calendar gives 31464"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-009495",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-01-31T14:09:00Z, calendar gives 47109"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-010173",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-02-02T16:04:00Z, calendar gives 50104"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-010528",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-02-04T12:49:00Z, calendar gives 56809"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-011532",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-02-05T05:57:00Z, calendar gives 51297"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-012088",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-02-08T13:25:00Z, calendar gives 62605"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-012181",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-02-08T16:38:00Z, calendar gives 58778"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-012253",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-02-07T13:21:00Z, calendar gives 56601"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-012472",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-02-09T12:23:00Z, calendar gives 59963"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-012878",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-02-10T18:56:00Z, calendar gives 63000"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-013269",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-02-11T21:13:00Z, calendar gives 62473"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-015028",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-02-16T12:08:00Z, calendar gives 70200"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-015388",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-02-19T12:22:00Z, calendar gives 78382"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-015939",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-02-19T12:40:00Z, calendar gives 73000"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-016181",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-02-21T13:44:00Z, calendar gives 81344"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-017165",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-02-23T23:11:00Z, calendar gives 83160"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-018717",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-02-28T16:06:00Z, calendar gives 87546"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-018920",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-03-01T10:27:00Z, calendar gives 88647"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-019835",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-03-03T04:20:00Z, calendar gives 89780"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-023896",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-03-14T07:59:00Z, calendar gives 104699"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-024497",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-03-18T01:15:00Z, calendar gives 111600"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-024578",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-03-18T10:47:00Z, calendar gives 111707"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-024860",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-03-17T13:52:00Z, calendar gives 109912"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-026731",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-03-24T10:29:00Z, calendar gives 121680"
+  },
+  {
+    "issue_type": "SLA_CALENDAR_IGNORED",
+    "ticket_id": "TKT-2026-028822",
+    "check": "sla_due_dates",
+    "detail": "stored resolution due 2026-03-29T20:03:00Z, calendar gives 133560"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-001150",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-ACCOUNT', 'QUE-BILLING', 'QUE-ACCOUNT']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-001233",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-TECH', 'QUE-ACCOUNT', 'QUE-TECH']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-002769",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-TECH', 'QUE-ACCOUNT', 'QUE-TECH']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-003488",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-ACCOUNT', 'QUE-SALES', 'QUE-ACCOUNT']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-004677",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-BILLING', 'QUE-ACCOUNT', 'QUE-BILLING']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-005639",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-BILLING', 'QUE-ACCOUNT', 'QUE-BILLING']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-005683",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-BILLING', 'QUE-ACCOUNT', 'QUE-BILLING']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-006826",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-ACCOUNT', 'QUE-SALES', 'QUE-ACCOUNT']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-007617",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-BILLING', 'QUE-SALES', 'QUE-BILLING']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-008487",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-ACCOUNT', 'QUE-BILLING', 'QUE-ACCOUNT']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-008809",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-BILLING', 'QUE-TECH', 'QUE-BILLING']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-010194",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-BILLING', 'QUE-ACCOUNT', 'QUE-BILLING']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-010895",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-TECH', 'QUE-BILLING', 'QUE-TECH']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-012835",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-TECH', 'QUE-ACCOUNT', 'QUE-TECH']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-014371",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-ACCOUNT', 'QUE-SALES', 'QUE-ACCOUNT']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-015831",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-BILLING', 'QUE-SALES', 'QUE-BILLING']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-017070",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-BILLING', 'QUE-TECH', 'QUE-BILLING']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-017367",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-ACCOUNT', 'QUE-BILLING', 'QUE-ACCOUNT']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-020205",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-TECH', 'QUE-SALES', 'QUE-TECH']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-021015",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-TECH', 'QUE-SALES', 'QUE-TECH']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-021719",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-BILLING', 'QUE-ACCOUNT', 'QUE-BILLING']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-022457",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-BILLING', 'QUE-ACCOUNT', 'QUE-BILLING']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-022988",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-TECH', 'QUE-ACCOUNT', 'QUE-TECH']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-024136",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-TECH', 'QUE-SALES', 'QUE-TECH']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-024895",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-BILLING', 'QUE-TECH', 'QUE-BILLING']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-025212",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-ACCOUNT', 'QUE-TECH', 'QUE-ACCOUNT']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-027331",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-BILLING', 'QUE-SALES', 'QUE-BILLING']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-028586",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-ACCOUNT', 'QUE-SALES', 'QUE-ACCOUNT']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-029448",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-TECH', 'QUE-SALES', 'QUE-TECH']"
+  },
+  {
+    "issue_type": "TRANSFER_LOOP",
+    "ticket_id": "TKT-2026-029560",
+    "check": "transfer_loop",
+    "detail": "queue path ['QUE-BILLING', 'QUE-SALES', 'QUE-BILLING']"
+  }
+]

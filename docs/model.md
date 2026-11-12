@@ -84,7 +84,7 @@ A new ticket starts `QUEUED` in its intent's home queue, with no event. Every la
 | event_type | From | To | Queue / agent |
 |---|---|---|---|
 | `ASSIGN` | QUEUED, REOPENED | ASSIGNED | Agent set. Agent must hold the queue's skill and be under the channel limit |
-| `TRANSFER` | ASSIGNED | QUEUED | New queue, agent NULL (misroute fix) |
+| `TRANSFER` | ASSIGNED, QUEUED | QUEUED | New queue, agent NULL (misroute fix, or a queue-to-queue move while waiting) |
 | `ESCALATE` | ASSIGNED, QUEUED, REOPENED | QUEUED | Queue becomes `QUE-T2`, agent NULL. Fires when 80% of the resolution target is used |
 | `RESOLVE` | ASSIGNED | RESOLVED | Same agent. Writes one `resolution` row |
 | `REOPEN` | RESOLVED | REOPENED | Starts a new cycle (`cycle_no` + 1) |
@@ -95,6 +95,7 @@ stateDiagram-v2
     QUEUED --> ASSIGNED : ASSIGN
     REOPENED --> ASSIGNED : ASSIGN
     ASSIGNED --> QUEUED : TRANSFER (new queue)
+    QUEUED --> QUEUED : TRANSFER (re-queue)
     ASSIGNED --> QUEUED : ESCALATE (QUE-T2)
     QUEUED --> QUEUED : ESCALATE (QUE-T2)
     REOPENED --> QUEUED : ESCALATE (QUE-T2)

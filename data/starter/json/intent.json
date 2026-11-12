@@ -1,0 +1,68 @@
+[
+  {
+    "intent_id": "INT-ACCOUNT_CHANGE",
+    "queue_id": "QUE-ACCOUNT",
+    "default_priority": "P4",
+    "is_safety": 0
+  },
+  {
+    "intent_id": "INT-BILLING_DISPUTE",
+    "queue_id": "QUE-BILLING",
+    "default_priority": "P3",
+    "is_safety": 0
+  },
+  {
+    "intent_id": "INT-DEMO_REQUEST",
+    "queue_id": "QUE-SALES",
+    "default_priority": "P4",
+    "is_safety": 0
+  },
+  {
+    "intent_id": "INT-GENERAL_QUESTION",
+    "queue_id": "QUE-ACCOUNT",
+    "default_priority": "P4",
+    "is_safety": 0
+  },
+  {
+    "intent_id": "INT-OUTAGE",
+    "queue_id": "QUE-TECH",
+    "default_priority": "P1",
+    "is_safety": 1
+  },
+  {
+    "intent_id": "INT-PASSWORD_RESET",
+    "queue_id": "QUE-ACCOUNT",
+    "default_priority": "P4",
+    "is_safety": 0
+  },
+  {
+    "intent_id": "INT-REFUND",
+    "queue_id": "QUE-BILLING",
+    "default_priority": "P3",
+    "is_safety": 0
+  },
+  {
+    "intent_id": "INT-SAFETY_HAZARD",
+    "queue_id": "QUE-TECH",
+    "default_priority": "P1",
+    "is_safety": 1
+  },
+  {
+    "intent_id": "INT-SALES_INQUIRY",
+    "queue_id": "QUE-SALES",
+    "default_priority": "P4",
+    "is_safety": 0
+  },
+  {
+    "intent_id": "INT-SECURITY",
+    "queue_id": "QUE-ACCOUNT",
+    "default_priority": "P1",
+    "is_safety": 1
+  },
+  {
+    "intent_id": "INT-TECH_ISSUE",
+    "queue_id": "QUE-TECH",
+    "default_priority": "P3",
+    "is_safety": 0
+  }
+]

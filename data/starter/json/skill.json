@@ -1,0 +1,22 @@
+[
+  {
+    "skill_id": "SKL-ACCOUNT",
+    "name": "Accounts and access"
+  },
+  {
+    "skill_id": "SKL-BILLING",
+    "name": "Billing and refunds"
+  },
+  {
+    "skill_id": "SKL-SALES",
+    "name": "Sales and prospects"
+  },
+  {
+    "skill_id": "SKL-T2",
+    "name": "Tier-2 escalations"
+  },
+  {
+    "skill_id": "SKL-TECH",
+    "name": "Technical support"
+  }
+]

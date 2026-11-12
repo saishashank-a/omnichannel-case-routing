@@ -1,0 +1,4 @@
+channel_id,name,default_max_concurrent
+CHAT,Live chat,3
+EMAIL,Email,5
+PHONE,Phone,1

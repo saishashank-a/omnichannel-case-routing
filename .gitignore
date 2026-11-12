@@ -3,5 +3,11 @@ __pycache__/
 .venv/
 .pytest_cache/
 .DS_Store
-# generated datasets are reproducible from the seed; regenerate with the CLI
-data/
+# SQLite files are rebuilt from seed.sql on every run (and can differ byte-wise)
+*.db
+# Full-scale data (~340 MB) is reproducible from the seed: only its manifest,
+# metrics, validation results and anomaly ground truth are committed.
+data/full/csv/
+data/full/json/
+data/full/seed.sql
+data/full/ground_truth/expected_decisions.*

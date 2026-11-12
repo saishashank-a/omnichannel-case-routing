@@ -1,0 +1,6 @@
+queue_id,name,skill_id
+QUE-ACCOUNT,Accounts,SKL-ACCOUNT
+QUE-BILLING,Billing,SKL-BILLING
+QUE-SALES,Sales,SKL-SALES
+QUE-T2,Tier-2 escalations,SKL-T2
+QUE-TECH,Technical,SKL-TECH

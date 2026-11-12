@@ -1,0 +1,27 @@
+[
+  {
+    "queue_id": "QUE-ACCOUNT",
+    "name": "Accounts",
+    "skill_id": "SKL-ACCOUNT"
+  },
+  {
+    "queue_id": "QUE-BILLING",
+    "name": "Billing",
+    "skill_id": "SKL-BILLING"
+  },
+  {
+    "queue_id": "QUE-SALES",
+    "name": "Sales",
+    "skill_id": "SKL-SALES"
+  },
+  {
+    "queue_id": "QUE-T2",
+    "name": "Tier-2 escalations",
+    "skill_id": "SKL-T2"
+  },
+  {
+    "queue_id": "QUE-TECH",
+    "name": "Technical",
+    "skill_id": "SKL-TECH"
+  }
+]

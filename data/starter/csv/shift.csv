@@ -1,0 +1,4 @@
+shift_id,start_min,end_min,weekdays
+SHF-DAY,420,900,"0,1,2,3,4,5"
+SHF-EVE,840,1320,"0,1,2,3,4,5"
+SHF-NIGHT,1320,420,"0,1,2,3,4,5,6"

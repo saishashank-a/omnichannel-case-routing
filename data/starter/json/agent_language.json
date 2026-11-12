@@ -1,0 +1,172 @@
+[
+  {
+    "agent_id": "AGT-000001",
+    "language_code": "en",
+    "effective_from": "2025-04-07T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000001",
+    "language_code": "es",
+    "effective_from": "2025-04-07T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000002",
+    "language_code": "en",
+    "effective_from": "2024-09-28T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000002",
+    "language_code": "fr",
+    "effective_from": "2024-09-28T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000003",
+    "language_code": "de",
+    "effective_from": "2023-01-13T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000003",
+    "language_code": "en",
+    "effective_from": "2023-01-13T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000004",
+    "language_code": "en",
+    "effective_from": "2024-07-18T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000004",
+    "language_code": "fr",
+    "effective_from": "2024-07-18T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000005",
+    "language_code": "en",
+    "effective_from": "2024-06-23T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000006",
+    "language_code": "en",
+    "effective_from": "2023-06-15T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000007",
+    "language_code": "en",
+    "effective_from": "2024-11-17T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000008",
+    "language_code": "en",
+    "effective_from": "2023-11-19T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000009",
+    "language_code": "en",
+    "effective_from": "2025-06-17T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000009",
+    "language_code": "fr",
+    "effective_from": "2025-06-17T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000010",
+    "language_code": "de",
+    "effective_from": "2023-07-03T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000010",
+    "language_code": "en",
+    "effective_from": "2023-07-03T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000011",
+    "language_code": "en",
+    "effective_from": "2023-12-06T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000011",
+    "language_code": "es",
+    "effective_from": "2023-12-06T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000012",
+    "language_code": "en",
+    "effective_from": "2024-12-31T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000012",
+    "language_code": "fr",
+    "effective_from": "2024-12-31T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000013",
+    "language_code": "de",
+    "effective_from": "2023-12-27T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000013",
+    "language_code": "en",
+    "effective_from": "2023-12-27T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000014",
+    "language_code": "en",
+    "effective_from": "2023-07-19T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000014",
+    "language_code": "es",
+    "effective_from": "2023-07-19T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000015",
+    "language_code": "en",
+    "effective_from": "2025-08-07T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000016",
+    "language_code": "en",
+    "effective_from": "2025-02-28T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000017",
+    "language_code": "de",
+    "effective_from": "2025-09-12T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000017",
+    "language_code": "en",
+    "effective_from": "2025-09-12T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000018",
+    "language_code": "en",
+    "effective_from": "2024-10-05T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000018",
+    "language_code": "es",
+    "effective_from": "2024-10-05T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000019",
+    "language_code": "en",
+    "effective_from": "2024-02-22T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000019",
+    "language_code": "fr",
+    "effective_from": "2024-02-22T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000020",
+    "language_code": "de",
+    "effective_from": "2024-06-26T00:00:00Z"
+  },
+  {
+    "agent_id": "AGT-000020",
+    "language_code": "en",
+    "effective_from": "2024-06-26T00:00:00Z"
+  }
+]

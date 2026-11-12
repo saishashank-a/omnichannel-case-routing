@@ -1,0 +1,1614 @@
+{
+  "tickets": 30000,
+  "messages": 100000,
+  "agents": 100,
+  "after_hours_pct": 30.7,
+  "priority_mix": {
+    "P1": 2059,
+    "P2": 2912,
+    "P3": 12688,
+    "P4": 12341
+  },
+  "channel_mix": {
+    "CHAT": 10540,
+    "EMAIL": 13457,
+    "PHONE": 6003
+  },
+  "sla_attainment": [
+    {
+      "channel_id": "CHAT",
+      "priority": "P1",
+      "met": 750,
+      "breached": 42,
+      "pct": 94.7,
+      "first_response_pct": 63.4
+    },
+    {
+      "channel_id": "CHAT",
+      "priority": "P2",
+      "met": 1099,
+      "breached": 0,
+      "pct": 100.0,
+      "first_response_pct": 93.21
+    },
+    {
+      "channel_id": "CHAT",
+      "priority": "P3",
+      "met": 4680,
+      "breached": 0,
+      "pct": 100.0,
+      "first_response_pct": 99.98
+    },
+    {
+      "channel_id": "CHAT",
+      "priority": "P4",
+      "met": 4536,
+      "breached": 0,
+      "pct": 100.0,
+      "first_response_pct": 99.98
+    },
+    {
+      "channel_id": "EMAIL",
+      "priority": "P1",
+      "met": 944,
+      "breached": 45,
+      "pct": 95.45,
+      "first_response_pct": 94.08
+    },
+    {
+      "channel_id": "EMAIL",
+      "priority": "P2",
+      "met": 1319,
+      "breached": 0,
+      "pct": 100.0,
+      "first_response_pct": 100.0
+    },
+    {
+      "channel_id": "EMAIL",
+      "priority": "P3",
+      "met": 6003,
+      "breached": 0,
+      "pct": 100.0,
+      "first_response_pct": 99.98
+    },
+    {
+      "channel_id": "EMAIL",
+      "priority": "P4",
+      "met": 5836,
+      "breached": 0,
+      "pct": 100.0,
+      "first_response_pct": 100.0
+    },
+    {
+      "channel_id": "PHONE",
+      "priority": "P1",
+      "met": 364,
+      "breached": 28,
+      "pct": 92.86,
+      "first_response_pct": 81.47
+    },
+    {
+      "channel_id": "PHONE",
+      "priority": "P2",
+      "met": 637,
+      "breached": 0,
+      "pct": 100.0,
+      "first_response_pct": 98.37
+    },
+    {
+      "channel_id": "PHONE",
+      "priority": "P3",
+      "met": 2650,
+      "breached": 0,
+      "pct": 100.0,
+      "first_response_pct": 99.96
+    },
+    {
+      "channel_id": "PHONE",
+      "priority": "P4",
+      "met": 2626,
+      "breached": 0,
+      "pct": 100.0,
+      "first_response_pct": 100.0
+    }
+  ],
+  "rates": {
+    "transfer_rate": 8.04,
+    "escalation_rate": 0.39,
+    "reopen_rate": 5.3,
+    "language_match_rate": 97.09,
+    "translation_rate": 2.91
+  },
+  "queue_wait_minutes": {
+    "p50": 0,
+    "p90": 0,
+    "p99": 771,
+    "max": 2778
+  },
+  "csat_distribution": {
+    "1": 7,
+    "2": 157,
+    "3": 158,
+    "4": 3066,
+    "5": 7230
+  },
+  "peak_concurrency": [
+    {
+      "agent_id": "AGT-000001",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000001",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000001",
+      "channel_id": "PHONE",
+      "peak": 2,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000002",
+      "channel_id": "CHAT",
+      "peak": 2,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000002",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000002",
+      "channel_id": "PHONE",
+      "peak": 2,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000003",
+      "channel_id": "CHAT",
+      "peak": 2,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000003",
+      "channel_id": "EMAIL",
+      "peak": 3,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000003",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000004",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000004",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000004",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000005",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000005",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000005",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000006",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000006",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000006",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000007",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000007",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000007",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000008",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000008",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000008",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000009",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000009",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000009",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000010",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000010",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000010",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000011",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000011",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000011",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000012",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000012",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000013",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000013",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000013",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000014",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000014",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000015",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000015",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000016",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000016",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000016",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000017",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000017",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000018",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000018",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000019",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000019",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000020",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000020",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000020",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000021",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000021",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000022",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000022",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000023",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000023",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000023",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000024",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000024",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000025",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000026",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000027",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000027",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000027",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000028",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000029",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000029",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000030",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000030",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000030",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000031",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000031",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000032",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000033",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000033",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000034",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000035",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000036",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000037",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000037",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000037",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000038",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000038",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000038",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000039",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000040",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000041",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000042",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000043",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000043",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000044",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000045",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000045",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000045",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000047",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000048",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000049",
+      "channel_id": "CHAT",
+      "peak": 3,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000049",
+      "channel_id": "EMAIL",
+      "peak": 4,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000049",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000050",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000051",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000051",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000051",
+      "channel_id": "PHONE",
+      "peak": 2,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000052",
+      "channel_id": "CHAT",
+      "peak": 2,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000052",
+      "channel_id": "EMAIL",
+      "peak": 3,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000052",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000053",
+      "channel_id": "CHAT",
+      "peak": 2,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000053",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000053",
+      "channel_id": "PHONE",
+      "peak": 2,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000054",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000054",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000054",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000055",
+      "channel_id": "CHAT",
+      "peak": 2,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000055",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000055",
+      "channel_id": "PHONE",
+      "peak": 2,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000056",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000056",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000056",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000057",
+      "channel_id": "CHAT",
+      "peak": 2,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000057",
+      "channel_id": "EMAIL",
+      "peak": 3,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000057",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000058",
+      "channel_id": "CHAT",
+      "peak": 2,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000058",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000058",
+      "channel_id": "PHONE",
+      "peak": 2,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000059",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000059",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000059",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000060",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000060",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000060",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000061",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000061",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000061",
+      "channel_id": "PHONE",
+      "peak": 2,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000062",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000062",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000062",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000063",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000063",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000063",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000064",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000064",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000064",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000065",
+      "channel_id": "CHAT",
+      "peak": 2,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000065",
+      "channel_id": "EMAIL",
+      "peak": 3,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000065",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000066",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000066",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000067",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000067",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000067",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000068",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000068",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000068",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000069",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000069",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000070",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000070",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000070",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000071",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000071",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000072",
+      "channel_id": "CHAT",
+      "peak": 2,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000072",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000072",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000073",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000073",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000074",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000074",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000074",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000075",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000075",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000076",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000076",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000077",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000077",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000078",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000078",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000079",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000079",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000080",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000080",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000081",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000082",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000082",
+      "channel_id": "EMAIL",
+      "peak": 3,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000082",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000083",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000083",
+      "channel_id": "EMAIL",
+      "peak": 1,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000084",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000084",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000084",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000085",
+      "channel_id": "CHAT",
+      "peak": 1,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000085",
+      "channel_id": "EMAIL",
+      "peak": 2,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000086",
+      "channel_id": "CHAT",
+      "peak": 3,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000086",
+      "channel_id": "EMAIL",
+      "peak": 6,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000086",
+      "channel_id": "PHONE",
+      "peak": 2,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000087",
+      "channel_id": "CHAT",
+      "peak": 3,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000087",
+      "channel_id": "EMAIL",
+      "peak": 5,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000087",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000088",
+      "channel_id": "CHAT",
+      "peak": 3,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000088",
+      "channel_id": "EMAIL",
+      "peak": 5,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000088",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000089",
+      "channel_id": "CHAT",
+      "peak": 3,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000089",
+      "channel_id": "EMAIL",
+      "peak": 5,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000089",
+      "channel_id": "PHONE",
+      "peak": 2,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000090",
+      "channel_id": "CHAT",
+      "peak": 4,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000090",
+      "channel_id": "EMAIL",
+      "peak": 5,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000090",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000091",
+      "channel_id": "CHAT",
+      "peak": 3,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000091",
+      "channel_id": "EMAIL",
+      "peak": 5,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000091",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000092",
+      "channel_id": "CHAT",
+      "peak": 3,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000092",
+      "channel_id": "EMAIL",
+      "peak": 5,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000092",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000093",
+      "channel_id": "CHAT",
+      "peak": 4,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000093",
+      "channel_id": "EMAIL",
+      "peak": 5,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000093",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000094",
+      "channel_id": "CHAT",
+      "peak": 3,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000094",
+      "channel_id": "EMAIL",
+      "peak": 5,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000094",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000095",
+      "channel_id": "CHAT",
+      "peak": 3,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000095",
+      "channel_id": "EMAIL",
+      "peak": 5,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000095",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000096",
+      "channel_id": "CHAT",
+      "peak": 3,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000096",
+      "channel_id": "EMAIL",
+      "peak": 5,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000096",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000097",
+      "channel_id": "CHAT",
+      "peak": 3,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000097",
+      "channel_id": "EMAIL",
+      "peak": 5,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000097",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000098",
+      "channel_id": "CHAT",
+      "peak": 3,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000098",
+      "channel_id": "EMAIL",
+      "peak": 5,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000098",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000099",
+      "channel_id": "CHAT",
+      "peak": 3,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000099",
+      "channel_id": "EMAIL",
+      "peak": 5,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000099",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    },
+    {
+      "agent_id": "AGT-000100",
+      "channel_id": "CHAT",
+      "peak": 3,
+      "limit": 3
+    },
+    {
+      "agent_id": "AGT-000100",
+      "channel_id": "EMAIL",
+      "peak": 5,
+      "limit": 5
+    },
+    {
+      "agent_id": "AGT-000100",
+      "channel_id": "PHONE",
+      "peak": 1,
+      "limit": 1
+    }
+  ],
+  "anomaly_detection": [
+    {
+      "issue_type": "CAPACITY_EXCEEDED",
+      "expected": 30,
+      "found": 30,
+      "missed": 0,
+      "false_positive": 0
+    },
+    {
+      "issue_type": "SLA_CALENDAR_IGNORED",
+      "expected": 30,
+      "found": 30,
+      "missed": 0,
+      "false_positive": 0
+    },
+    {
+      "issue_type": "REOPEN_HISTORY_LOST",
+      "expected": 30,
+      "found": 30,
+      "missed": 0,
+      "false_positive": 0
+    },
+    {
+      "issue_type": "TRANSFER_LOOP",
+      "expected": 30,
+      "found": 30,
+      "missed": 0,
+      "false_positive": 0
+    },
+    {
+      "issue_type": "PRIORITY_SAFETY_VIOLATION",
+      "expected": 30,
+      "found": 30,
+      "missed": 0,
+      "false_positive": 0
+    }
+  ]
+}

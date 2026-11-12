@@ -1,0 +1,86 @@
+[
+  {
+    "priority": "P1",
+    "channel_id": "CHAT",
+    "first_response_min": 5,
+    "resolution_min": 240,
+    "calendar": "24x7"
+  },
+  {
+    "priority": "P1",
+    "channel_id": "EMAIL",
+    "first_response_min": 30,
+    "resolution_min": 240,
+    "calendar": "24x7"
+  },
+  {
+    "priority": "P1",
+    "channel_id": "PHONE",
+    "first_response_min": 5,
+    "resolution_min": 240,
+    "calendar": "24x7"
+  },
+  {
+    "priority": "P2",
+    "channel_id": "CHAT",
+    "first_response_min": 10,
+    "resolution_min": 600,
+    "calendar": "CHANNEL"
+  },
+  {
+    "priority": "P2",
+    "channel_id": "EMAIL",
+    "first_response_min": 60,
+    "resolution_min": 600,
+    "calendar": "CHANNEL"
+  },
+  {
+    "priority": "P2",
+    "channel_id": "PHONE",
+    "first_response_min": 10,
+    "resolution_min": 600,
+    "calendar": "CHANNEL"
+  },
+  {
+    "priority": "P3",
+    "channel_id": "CHAT",
+    "first_response_min": 30,
+    "resolution_min": 1200,
+    "calendar": "CHANNEL"
+  },
+  {
+    "priority": "P3",
+    "channel_id": "EMAIL",
+    "first_response_min": 240,
+    "resolution_min": 1200,
+    "calendar": "CHANNEL"
+  },
+  {
+    "priority": "P3",
+    "channel_id": "PHONE",
+    "first_response_min": 20,
+    "resolution_min": 1200,
+    "calendar": "CHANNEL"
+  },
+  {
+    "priority": "P4",
+    "channel_id": "CHAT",
+    "first_response_min": 60,
+    "resolution_min": 3000,
+    "calendar": "CHANNEL"
+  },
+  {
+    "priority": "P4",
+    "channel_id": "EMAIL",
+    "first_response_min": 480,
+    "resolution_min": 3000,
+    "calendar": "CHANNEL"
+  },
+  {
+    "priority": "P4",
+    "channel_id": "PHONE",
+    "first_response_min": 30,
+    "resolution_min": 3000,
+    "calendar": "CHANNEL"
+  }
+]
