@@ -13,6 +13,10 @@ Every prompt sent to an AI tool during this challenge, in order. AI responses ar
 | 007 | [007-metrics-source.md](007-metrics-source.md) | Claude Code (Opus 5.5) | Are metrics specified by the problem? |
 | 008 | [008-assessment-type.md](008-assessment-type.md) | Claude Code (Opus 5.5) | What is being assessed? |
 | 009 | [009-ui-prompt-request.md](009-ui-prompt-request.md) | Claude Code (Opus 5.5) | Ask for a UI prompt to hand to Codex/Gemini |
+| 010 | [010-ui-prompt-in-chat.md](010-ui-prompt-in-chat.md) | Claude Code (Opus 5.5) | Show UI prompt in chat |
+| 011 | [011-codex-model.md](011-codex-model.md) | Claude Code (Opus 5.5) | Which Codex model for the UI |
+| 012 | [012-codex-version.md](012-codex-version.md) | Claude Code (Opus 5.5) | Codex version correction |
+| 013 | [013-rewrite-ui-prompt.md](013-rewrite-ui-prompt.md) | Claude Code (Opus 5.5) | Rewrite UI prompt for Codex |
 
 ## Agent-generated prompts
 
