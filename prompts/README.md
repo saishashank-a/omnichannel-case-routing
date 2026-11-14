@@ -24,6 +24,11 @@ Every prompt sent to an AI tool during this challenge, in order. AI responses ar
 | 018 | [018-do-items.md](018-do-items.md) | Claude Code (Opus 5.5) | Do the submission checklist (Claude did 2-4; 1 and 5 left to me) |
 | 019 | [019-stop-server.md](019-stop-server.md) | Claude Code (Opus 5.5) | Stop the local viewer server |
 | 020 | [020-claude-runs-checks.md](020-claude-runs-checks.md) | Claude Code (Opus 5.5) | Claude runs the verification checks (recorded as Claude-run in AI_USAGE) |
+| 021 | [021-walkthrough-prep.md](021-walkthrough-prep.md) | Claude Code (Opus 5.5) | Walkthrough interview prep |
+| 022 | [022-submit-link.md](022-submit-link.md) | Claude Code (Opus 5.5) | Is the GitHub link enough to submit |
+| 023 | [023-portal-screenshot.md](023-portal-screenshot.md) | Claude Code (Opus 5.5) | Screenshot of the portal before submitting |
+| 024 | [024-option-a.md](024-option-a.md) | Claude Code (Opus 5.5) | Chose to fill in my own section of AI_USAGE |
+| 025 | [025-directed-everything.md](025-directed-everything.md) | Claude Code (Opus 5.5) | My role was direction; Claude wrote the section from my prompts |
 
 ## Agent-generated prompts
 

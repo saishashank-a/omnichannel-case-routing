@@ -57,15 +57,35 @@ These were run by Claude, not by me. They are listed separately so the section b
   checksum in the committed `manifest.json`; `repro` reported identical output across two runs.
 - **Viewer on real data:** found that the timeline showed browser-local time; fixed (commit `8ee3ac3`).
 
-## What I personally reviewed, changed or validated
+## What I directed
 
-> **TODO (me):** fill this in honestly before submitting. For example: which modules I read line
-> by line, which numbers I checked by hand (one ticket's SLA due time against the calendar), which
-> design choices I overrode, what I ran from a fresh clone. Do not list anything I did not do.
+My role was direction, not hand-coding. Every instruction is in [`prompts/`](prompts/).
 
--
--
--
+- **The design.** The kickoff ([prompt 001](prompts/001-kickoff.md)) set out the approach:
+  - a clean baseline first, with labelled anomalies injected after it
+  - ground truth kept separate from the input tables
+  - validators that double as the anomaly detectors
+  - the ID formats, and statuses and other derived values computed from source records rather than
+    randomly assigned
+  - the reproducibility check and the test plan
+
+  I asked Claude to challenge that design. I accepted its push toward something simpler (standard
+  library only, no pandas or YAML).
+- **Scope and schedule.** I compressed the plan to a single day, with five checkpoints and cut rules
+  ([prompt 006](prompts/006-build-today-and-explain.md)). I required vertical slices, code simple
+  enough to explain line by line, and prompts saved as we went.
+- **Tool choice.** I chose to build the optional viewer in parallel with Codex CLI, picked its model
+  from Claude's suggestion, and launched it myself ([prompts 009–015](prompts/), [`prompts/codex/`](prompts/codex/)).
+- **Verification.** I had the viewer run on the real data instead of Codex's sample, which caught
+  the time-zone bug. I also had the checks above run (prompts 016 and 020), and asked for the
+  results to be recorded as Claude's, not mine.
+- **Honesty of this record.** When the Codex session log showed a different CLI version from the one
+  I had given, I kept the logged version in this file and my original message unchanged in
+  [prompt 012](prompts/012-codex-version.md).
+
+The hands-on checks (running tests, comparing checksums, working out SLA due times by hand) were
+carried out by Claude Code at my direction, as listed in the section above. I did not run them
+myself.
 
 ## Limitations of this record
 
